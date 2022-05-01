@@ -1,638 +1,850 @@
 [
   {
-    "web-scraper-order": "1650125186-123",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Computing",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Website-Socs-A-Z-Pic-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-115",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Boardgames Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Board-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-154",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Latin American",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LatinAmer-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-156",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Law",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Law-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-166",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Mental Health",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Mind-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-189",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Saudi",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Scot-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-111",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Anatomy and Human Identification",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_AHID-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-126",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Debating",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_DRAMS-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-138",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Fiction Writing",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Fiction-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-153",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Labour Students",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LatinAmer-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-107",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Anime Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/anime-society-400x224.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-171",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Nordic",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Nordic-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-137",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Feminist",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Fem-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-180",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Politics",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_political-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-149",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "International Law society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_IntLaw-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-181",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Postgrad",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_post-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-170",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Nigerian",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-2-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-176",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "PENSA Dundee",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-PENSA-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-136",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Esports",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ESW-2-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-200",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Spectrum",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Spectrum-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-174",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Operatic (OpSoc)",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-143",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Guide Dogs",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Guide_dogs_3-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-169",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Music",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Music-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-185",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Roleplaying",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Roleplaying-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-173",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Obstetrics and Gynaecology",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-199",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Singaporean",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sing-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-113",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Baking and Cooking",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Veg-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-117",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Bulgarian",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Bulgarian_1-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-119",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Catholic",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Catholic-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-133",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Education and Social Work",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ESW-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-146",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Hong Kong",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_HongKong-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-197",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Social Digital",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Soc-Dig-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-198",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Socialist Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/socialist-society-400x284.jpeg"
-  },
-  {
-    "web-scraper-order": "1650125186-109",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Aeronautical",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/aeronautical-society-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-204",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Sustainability and Urban Planning",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Supa-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-162",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Marrow",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Marrow-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-191",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Scottish Nationalist",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ScotNat-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-167",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Model United Nations",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Mun-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-195",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Sign Language",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SignLanguage-2-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-203",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Sunday League Football",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sunday-football-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-175",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Participation",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_part-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-157",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "LGBT+",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Lgbt-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-210",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "We Are Donors Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_WAD-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-135",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Engineering",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2017/07/Soc_AZ_-Engineering-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-150",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Islamic",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Islam-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-142",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Ghanaian",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_history-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-161",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Malaysian",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Dumas-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-205",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Sustainable Fashion",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SF-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-207",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Traditional Music",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_trad-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-108",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
     "name": "Aerial",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2019/02/Soc_AZ_ActionPalestine-400x284.jpg"
+    "type": "Arts, Hobbies/Interests",
+    "link": "Aerial",
+    "link-href": "https://www.dusa.co.uk/project/aerial",
+    "description": "Joining Dundee Uni Aerial Society is a great way to try something new, get fit and have fun! We offer classes to everyone in pole fitness, aerial hoop and silks for all levels of ability. We give our members the chance to compete in national competitions and perform routines in our annual showcase. As well as this, we also run workshops throughout the year in other aerial apparatus and have lots of super fun socials – no wonder we were voted DUSA’s Most Active Society of 2019! The most important thing is that our members have fun, so if you’re looking for a new way to make friends and get fit OR if you’re wanting to continue to develop skills you already have then this is the society for you!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2019/02/Soc_AZ_ActionPalestine.jpg"
   },
   {
-    "web-scraper-order": "1650125186-211",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Women in STEM",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_WIS_1-400x284.png"
+    "name": "Aeronautical",
+    "type": "Hobbies/Interests",
+    "link": "Aeronautical",
+    "link-href": "https://www.dusa.co.uk/project/aeronautical",
+    "description": "Also known as AeroDundee, we are for all interested in Aviation, Flying, Engineering and Crafting. We have a virtual reality flight simulator where you can learn to fly, do aerobatics and even practice for your Private Pilot’s License.\nThe societies main attraction is our award-winning drone (UAS) team: HaggisAerospace. This team is designing and building a 10kg unmanned aircraft to compete in an annual Challenge against other universities (like formula student but with drones). Get real experience in engineering, programming, electronic, marketing etc\nBy joining you will get access to our workshop used for the main plane and side projects: rockets, quad making and personal projects!\nAny level of knowledge is welcome as we provide theoretical and practical teaching for new members. All disciplines are welcome to join, not just engineers.\nWe will be having socials, VR tournaments, RC fly offs, pizza nights and at least 1 trip to Whales for the annual challenge.\n \n\nEmail this society\nFollow this society on Facebook\nFollow this society on Instagram\nJoin this society on Discord",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/aeronautical-society.jpg"
   },
   {
-    "web-scraper-order": "1650125186-179",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Polish",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Polish-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-194",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Show Choir",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Music-Soc-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-193",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Sexpression",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sex-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-201",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Sports Medicine and Orthopaedic",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sportsmed-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-114",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Bands",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Bands-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-187",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Salsa",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Salsa-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-144",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "HandCraft",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/handcraft-society-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-155",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Latin Dance",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Latin-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-196",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Social Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/social-society-400x284.jpeg"
-  },
-  {
-    "web-scraper-order": "1650125186-132",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "DunTea",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_DunTea-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-182",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Preventing Period Poverty",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ppp-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-183",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Psychology",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_psychology_2-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-129",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Dermatology",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/69502260_106365747406462_5747513974102949888_n-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-202",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Students for Global Health",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SfGH-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-209",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Volunteering",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/06/Volunteering-Society-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-128",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Dental Wikipedia Editing",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Dental-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-184",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Redeemed Christian Fellowship",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_redeam-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-145",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "History",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/history-society-400x284.jpeg"
-  },
-  {
-    "web-scraper-order": "1650125186-206",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Swing Dance",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Swing-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-134",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Enactus",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/07/enactus-dundee-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-178",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Plant",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/plant-society-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-124",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Concert Band",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_concert-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-164",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "MedAID",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_-MEDAid-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-152",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Kink Society, DUKS",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/kink-society-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-188",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Save the Children",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_-Save-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-140",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Friends of MSF",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-MSF-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-163",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Maths",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Maths-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-141",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Geography & Environmental Sciences",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_German-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-160",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Low Impact Living",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_Low-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-208",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "UniBoob",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-ART-1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-120",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Christian Union",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Christian-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-190",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Scottish Dance",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Scot-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-186",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Route2 society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2022/01/EC27C677-D800-4408-A048-A94A73336817-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-110",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
     "name": "African & Caribbean",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_AFC-400x284.jpg"
+    "type": "Cultural",
+    "link": "African & Caribbean",
+    "link-href": "https://www.dusa.co.uk/project/african-caribbean",
+    "description": "Welcome to ACS Dundee! We are a vivacious society that embodies a colourful spirit and unifies the diversities of people, mainly of both the African and Caribbean decent, as well as those that are passionate in celebrating the range of cultures. A culture fusion comes from the heart of Africa to the Caribbeans and Americas. Our society aims to give insight into the diverse, vivid and intriguing aspects of our cuisine, music and traditions. It also aims to enrich its members and the surrounding community, culturally, socially and professionally. We host several events across the year; big and small. These will range from socials, fundraisers, careers events and an the SUACS Annual Ball which we host in collaboration with ACS’ at Universities across Scotland.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_AFC.jpg"
   },
   {
-    "web-scraper-order": "1650125186-147",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Humanities",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_hum-400x284.png"
+    "name": "Anatomy and Human Identification",
+    "type": "Academic",
+    "link": "Anatomy and Human Identification",
+    "link-href": "https://www.dusa.co.uk/project/ahis",
+    "description": "The AHID Society aims to provide a cohesive academic and social experience for all those who are interested in anatomy, human identification, and other related areas. Throughout the year we host pub crawls, evening lectures, anatomy sessions, small trips, and have an annual AHID ball.\nAnyone is welcome to join, regardless of degree path. The only requirements are an interest in anatomy and a love of fun!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_AHID.jpg"
   },
   {
-    "web-scraper-order": "1650125186-118",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Business",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Canada-1-400x284.png"
+    "name": "Anime Society",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Anime Society",
+    "link-href": "https://www.dusa.co.uk/project/anime-society",
+    "description": "The Dundee Anime Society aims to provide a safe, inclusive and fun space for all individuals who share a passion for anime! Gain access to all channels on our Discord server, as well as meet-ups and events which will include pub quizzes, anime streams and more! Anyone is welcome to join, and we can’t wait to meet you!\n\nEmail this Society\nFollow this Society on Facebook\nFollow this Society on Instagram\nJoin the Discord for this society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/anime-society.jpg"
   },
   {
-    "web-scraper-order": "1650125186-168",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Mooting",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Moot-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-158",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Life Sciences",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LifeSci-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-122",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Clinical Anatomy",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-DUCAS-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-192",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Self Defence",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Self-def-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-159",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "LIP Theatre",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_LIP_4-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-212",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Yoga",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_yoga_1-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-148",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Indian",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Indian_2-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-130",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Dirty Weekenders",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_Dirty-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-127",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Dental DRAMS",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2019/11/Soc_AZ_DRAMS-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-131",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Drive",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Drive_2-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-121",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Civil Engineering Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_civil-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-125",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Companionship",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Comp-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-116",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Book Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/book-society-400x284-1.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-151",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Just Love",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Just-400x284.png"
-  },
-  {
-    "web-scraper-order": "1650125186-177",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Physics",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Physics-400x284.jpg"
-  },
-  {
-    "web-scraper-order": "1650125186-165",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Medieval Re-enactment society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/596BD882-1AD5-4BFB-8B63-441F3C0991B5-400x284.jpeg"
-  },
-  {
-    "web-scraper-order": "1650125186-112",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
     "name": "Association of Dundee Architecture Students",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ADAS-400x284.jpg"
+    "type": "Academic",
+    "link": "Association of Dundee Architecture Students",
+    "link-href": "https://www.dusa.co.uk/project/association-of-dundee-architecture-students",
+    "description": "We are a society that aims to enhance the experiences of Architecture + Urban Planning students. It is a great opportunity for new and existing students to get to know other students and participate in a variety of activities. This includes a lecture series and weekly socials to integrate the year-groups. As members, you will get to come to all of our lectures for free, and will receive significant discount for ADAS merchandise and the ball. If you’re an Architecture or Art student, please join!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ADAS.jpg"
   },
   {
-    "web-scraper-order": "1650125186-172",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
-    "name": "Nursing Society",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/nursing-society-400x284.jpg"
+    "name": "Baking and Cooking",
+    "type": "Hobbies/Interests, Social",
+    "link": "Baking and Cooking",
+    "link-href": "https://www.dusa.co.uk/project/baking-and-cooking",
+    "description": "Fancy learning how to cook some easy and delicious meals and channel your inner Gordon Ramsay? Want to know how to bake up some sweet treats? Then why not try broadening your culinary horizons and coming along to the Baking and Cooking Society! We believe that anyone can learn to cook and aim to teach cooking skills and recipes of all types and dietary requirements (we’ve got you covered, vegans and vegetarians!) as well as having a bit of fun along the way!\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Veg.jpg"
   },
   {
-    "web-scraper-order": "1650125186-139",
-    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Bands",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Bands",
+    "link-href": "https://www.dusa.co.uk/project/bands",
+    "description": "If you’re a musician looking to be in a band the Dundee University Bands Society is the place for you! DUBS is a fantastic place to meet new musical friends, whether you’re an individual looking to start a band, or you already have a fully formed group.\nThrough-out the year DUBS holds events to showcase our members and provide the opportunity to work on their performance skills. These events vary from small open mic nights to gigs held at local venues in Dundee.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Bands.jpg"
+  },
+  {
+    "name": "Boardgames Society",
+    "type": "Hobbies/Interests, Social",
+    "link": "Boardgames Society",
+    "link-href": "https://www.dusa.co.uk/project/boardgames",
+    "description": "Whether you have played board games all your life or have never played anything apart from Uno and Monopoly – come grab a drink and join us for our weekly gathering. Be a conqueror of space, become a train baron in the 1900s or decide how to settle the bountiful lands of Catan – all while competing and cooperating with new friends.\nOur meetings take place twice a week in the DUSA Meeting rooms unless otherwise stated on our Discord Server.\nPlease don’t hesitate to send us an email with any inquiries.\n\nEmail this society\nFollow this society on Discord",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Board.jpg"
+  },
+  {
+    "name": "Book Society",
+    "type": "Academic, Arts, Hobbies/Interests",
+    "link": "Book Society",
+    "link-href": "https://www.dusa.co.uk/project/book-society",
+    "description": "We are a society of book lovers who meet up regularly for social gatherings and book swaps. We read, discuss and analyse our favourite and up-and-coming book at regular book discussions. There will be the opportunity to explore a variety of writers dealing with various themes and meet alot of new friends along the way.\n\nEmail this Society\nFollow this Society on Facebook",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/book-society.jpg"
+  },
+  {
+    "name": "Bulgarian",
+    "type": "Cultural",
+    "link": "Bulgarian",
+    "link-href": "https://www.dusa.co.uk/project/bulgarian",
+    "description": "The University of Dundee Bulgarian Society also known as DUBGS is a cultural society that caters to many diverse and engaging events throughout the academic year. In DUBGS all are welcome! Whether you are Bulgarian or not, if you are looking for new friends, want to have some fun or you are just curious what we are up to. Join us in our themed parties – have fun, find new friends, listen to good Bulgarian music and try our home-made dishes. This year we are planning to give you the opportunity to taste many diverse Bulgarian snacks. Come along to our lovely literature nights and get inspired by poems, stories and novels within our history and community. Join us in the upcoming movie nights and let us explore the modern Bulgarian cinematography together. If you are more of a party soul, then the Balkan Night is the perfect event for you. We have prepared this and many more new social gatherings at exciting venues that are yet to be announced, so follow us on all social media!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Bulgarian_1.jpg"
+  },
+  {
+    "name": "Business",
+    "type": "Academic",
+    "link": "Business",
+    "link-href": "https://www.dusa.co.uk/project/business",
+    "description": "Dundee University Business Society (DUBS) focuses on creating a supportive and active community, hosting a range of both academic and social events throughout the year for all members to enjoy and take part in. DUBS proudly has a large presence on campus and traditionally welcomes students from all backgrounds and degrees from the University of Dundee.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Canada-1.jpg"
+  },
+  {
+    "name": "Catholic",
+    "type": "Charitable, Religious",
+    "link": "Catholic",
+    "link-href": "https://www.dusa.co.uk/project/catholic",
+    "description": "​The Dundee University Catholic Society provides a place for Catholic students to meet and share their faith with fun and fellowship. We welcome anyone who is interested in the Catholic faith, and are always happy to answer any questions. Our society aims to provide opportunities for faith development such as mass, adoration, public speakers and scripture study, as well as plenty of time to get to know one another over tea and cakes (or even a nice cold drink in the pub!) We love to be social and will take any excuse for a good meal and a party! We also love to organise day trips and retreats, including our annual weekend retreat in the second semester. Get in touch for more information, and come along to any of our events to see what we get up to!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Catholic.jpg"
+  },
+  {
+    "name": "Christian Union",
+    "type": "Religious",
+    "link": "Christian Union",
+    "link-href": "https://www.dusa.co.uk/project/christian-union",
+    "description": "Dundee University Christian Union is a gospel-driven mission team led by students, for students. We come from a wide range of backgrounds but are united in our vision to give every student on campus the opportunity to hear and respond to the gospel of Jesus Christ. We meet centrally once a week in the University Chaplaincy for our Equip meeting, where we are equipped to share the good news through studying God’s word, praying and worshipping together. This time is also a great opportunity to meet Christian students from different backgrounds and churches. \nWe believe prayer is central to our mission, so we provide the opportunity to come together as a CU at our weekly prayer meetings. We also have a huge number of events that run throughout the year and there are so many opportunities to get involved! Please get in contact if you have any questions!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Christian.jpg"
+  },
+  {
+    "name": "Civil Engineering Society",
+    "type": "Academic",
+    "link": "Civil Engineering Society",
+    "link-href": "https://www.dusa.co.uk/project/civil-engineering-society",
+    "description": "Hi there! We are Civil Engineering Society; still an up-and-coming society filled with like-minded intelligent individuals passionate about the built environment and all it offers in our sector. We are a bunch of enthusiastic students who are determined in connecting with, not only other students, but lecturers and professionals who can guide and support us through our university development. We aim to create opportunities outside the classroom and explore how to turn our theoretical skills into practical fun. Our events will provide exciting opportunities whereby we can all connect across years and so develop our networks. We plan to support our members as much as we can and help them get make useful contacts by providing many events, such as night socials, talks from professionals and the opportunity to collaborate with our civil engineering societies across the country. Hope to see you soon!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_civil.jpg"
+  },
+  {
+    "name": "Clinical Anatomy",
+    "type": "Academic",
+    "link": "Clinical Anatomy",
+    "link-href": "https://www.dusa.co.uk/project/clinical-anatomy",
+    "description": "DUCAS is an educational society that aids your learning of anatomy with a clinical slant. We primarily run teaching events and help sessions, led by senior students with special interests and knowledge. We promote an inclusive and safe environment for you to learn in- anatomy is tough so you do not need extensive, or any, current knowledge!\nIf you fall into these categories, DUCAS is perfect for you:\n• You need anatomy knowledge for your course\n• You want to apply for a clinical job/course after your current degree (ie medicine)\n• You want extra study material + tips for exams\nIf you think DUCAS is the society for you, why not become a member?\n• Priority sign-up to teaching events\n• Personalised teaching\n• Email updates on teaching and events\n• And much more!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-DUCAS.jpg"
+  },
+  {
+    "name": "Companionship",
+    "type": "Charitable",
+    "link": "Companionship",
+    "link-href": "https://www.dusa.co.uk/project/companionship",
+    "description": "Did you know that over a million older people in the UK go over a month without speaking to anyone? The older generation are especially vulnerable to loneliness and social isolation and we believe that students in Dundee can help! The aim of this society is for students to be paired with a member of the elderly to combat loneliness. Together, we can have a really positive impact on the older generation in Tayside.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Comp.jpg"
+  },
+  {
+    "name": "Computing",
+    "type": "Academic",
+    "link": "Computing",
+    "link-href": "https://www.dusa.co.uk/project/computing",
+    "description": "Interested in tech? Then the Dundee University Computing Society is for you! We’re hosting a variety of events this year, ranging from workshops led by industry experts to movie & games nights and pub crawls – so we’ve got something for everyone!\nThe Quackathon is DUCS’ event of the year and gives you the chance to really show off your skills in a bid to grab some prizes. Our annual ceilidh isn’t to be missed either, it’s a vibrant event and a brilliant opportunity to let off some steam at the end of the year.\nWe’ve also got academic families, where you can be placed with older students who’ll help you settle into DUCS and can help with you any aspect of uni life.\nWe don’t mind if you’re an expert or a beginner, or whether you study computing or French, speak to us at the Freshers’ Fair or on Facebook!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Website-Socs-A-Z-Pic.png"
+  },
+  {
+    "name": "Concert Band",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Concert Band",
+    "link-href": "https://www.dusa.co.uk/project/concert-band",
+    "description": "Dundee University Concert Band welcomes all wind and percussion players of all levels and experience to come and join us for another year of fun. We meet once a week for the duration of semester and work together towards our 2 annual concerts at Christmas and Easter. We play a variety of music so there is something to suit everyone’s taste and we enjoy a relaxed atmosphere with the emphasis on enjoyment of music. We are not exclusive to Dundee University and welcome the public and students of other colleges and universities. There is also limited availability of instruments to borrow. \nWe have a weekly meet up after rehearsals to chill out with some food and drink and get to know each other a little better as well as post-concert get togethers. We hope to see you there!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_concert.jpg"
+  },
+  {
+    "name": "Debating",
+    "type": "Academic, Hobbies/Interests",
+    "link": "Debating",
+    "link-href": "https://www.dusa.co.uk/project/debating",
+    "description": "At the debating society we hold debates on every conceivable topic, if you have an opinion, we want to hear it. At training we will teach you how to prepare a seven-minute speech in fifteen minutes, meaning that there is no better place to practice public speaking. Beginners are very welcome so don’t be intimidated; we won’t throw you into a public debate right away. However, if you really enjoy debating, there are opportunities to compete all over Scotland which are always loads of fun. no matter your skill level or experience everyone is welcome at the debating society.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_DRAMS.jpg"
+  },
+  {
+    "name": "Dental DRAMS",
+    "type": "Academic",
+    "link": "Dental DRAMS",
+    "link-href": "https://www.dusa.co.uk/project/dental-drams",
+    "description": "Dental DRAMS is a club dedicated to research, and we serve as a stepping-stone to the world of dental-specific research for students interested in oral health. Our objectives are to promote research, make research papers easy to understand and to impart useful skills in discerning reliable pieces of research. The highlight of our club is our Summer Internship Project whereby participants start a small project on their own to conduct research for themselves. We organise events that are designed to make research interesting for everybody and the best part is that our events come with free food!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2019/11/Soc_AZ_DRAMS.png"
+  },
+  {
+    "name": "Dental Wikipedia Editing",
+    "type": "Academic",
+    "link": "Dental Wikipedia Editing",
+    "link-href": "https://www.dusa.co.uk/project/dental-wikipedia",
+    "description": "Founded in 2013, DDWEP was established by the Dental DRAMS Committee which in turn was set up under the auspices of INSPIRE. We aim to enhance the accessibility of accurate, up to date evidence based information through Wikipedia.\nWith evidence-based Dentistry at its core, this multi- faceted initiative allows dental students, dentists and academics from all around the world to contribute to the future dissemination of dental information by working as a team to collectively maintain, update and expand dental related articles on Wikipedia.\nThis independent society was established in 2016 and has since then received continuous endorsement from the Cochrane Collaboration. In AY 2019/2020, DDWEP expanded internationally yet again, collaborating with over 10 universities which includes dental schools from the UK (Dundee, Glasgow, Queen’s Belfast, Aberdeen), Canada (Toronto) and Malaysia (IMU and USM).",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Dental.jpg"
+  },
+  {
+    "name": "Dermatology",
+    "type": "Academic",
+    "link": "Dermatology",
+    "link-href": "https://www.dusa.co.uk/project/dermatology",
+    "description": "​University can be fun and exciting, but there may be times where you are stressed and experience a flare-up of skin conditions such as acne and eczema. DermSoc Dundee is here to help! The Dermatology Society began as a medical society aiming to promote Dermatology (branch of medicine focused on conditions which affect the skin, hair, and nails) as a specialty.\nWe are connected to the Dermatology Department at Ninewells Hospital and are affiliated with the British Association of Dermatologists (BAD). Our goal is to raise awareness about dermatological conditions through fundraising and to promote good skin care by organising talks and events throughout the year. Whether you are considering a career as a healthcare professional or just curious, everyone is welcome to join. Check out our Facebook page or feel free to email us.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/69502260_106365747406462_5747513974102949888_n.jpg"
+  },
+  {
+    "name": "Dirty Weekenders",
+    "type": "Hobbies/Interests, Social",
+    "link": "Dirty Weekenders",
+    "link-href": "https://www.dusa.co.uk/project/dirty-weekenders",
+    "description": "The Dirty Weekenders are Dundee University’s outdoors society. We plan monthly trips for a weekend of camping and outdoor fun. Picture this: a day full of embracing the best nature has to offer with an activity such as river rafting, mountain biking, rock climbing, or anything you’ve ever wanted to try. Then retire to the campsite where we cook dinner over a campfire and have a good time watching the flames under the stars and chilling out with some like-minded people. The perfect weekend away! Pay per trip – meaning you can pick and choose which activities you most want to experience. Check us out at the freshers fair or on Facebook!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_Dirty.jpg"
+  },
+  {
+    "name": "Drive",
+    "type": "Academic, Hobbies/Interests",
+    "link": "Drive",
+    "link-href": "https://www.dusa.co.uk/project/drive",
+    "description": "DRIVE is Dundee’s Formula Student team, where we design, build, and race an open wheel racing car. Each summer (when there’s not a pandemic) we take the car to Silverstone to compete at Formula Student UK against other teams from around the world to see who’s built the fastest and most reliable car. This year we’re looking for new members to get involved with the team, whether that’s to build the car, race the car, or just join us for the social side. So if you have any interest in motorsport, cars, design, or engineering, give us a shout. Oh, and don’t worry about what you study or what previous experience you have – we are all happy to show you the ropes and theres no pressure or expectation to be an instant pro! Get in touch if you have any questions!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Drive_2.jpg"
+  },
+  {
+    "name": "DunTea",
+    "type": "Hobbies/Interests, Social",
+    "link": "DunTea",
+    "link-href": "https://www.dusa.co.uk/project/duntea",
+    "description": "If you love trying new teas, chatting to new people over a cuppa, or just want a few hours to Tea-stress (Tea puns guaranteed throughout), then DunTea is the society for you! We frequently host events and have a few teas on offer that revolve around a theme. From Space to Christmas and everything in between, DunTea has an event for everyone! Our events this year will allow you to try new teas from the comfort of your home whilst still allowing you to meet people through our DunTea discord group! Find us on Facebook at ‘DunTea Society’! We hope Tea see you there!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_DunTea.jpg"
+  },
+  {
+    "name": "Education and Social Work",
+    "type": "Academic",
+    "link": "Education and Social Work",
+    "link-href": "https://www.dusa.co.uk/project/education-and-social-work",
+    "description": "The Education and Social Work society is here for those studying in the school of Education, Social Work and Community Learning but we welcome those from any school who feels they may benefit from what we offer. As well as arranging themed nights out, charity fundraisers and bake sales, we also arrange and hold talks, workshops and seminars that can benefit those studying in the ESW school. In the past this has included talks on Autism and Makaton workshops. We also take on suggestions of what will be beneficial to you. Our aim is also to create a network of support where those who are starting out their journey at Dundee University can turn to us for advice and guidance or be pointed in the direction to find it.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ESW.jpg"
+  },
+  {
+    "name": "Enactus",
+    "type": "Charitable",
+    "link": "Enactus",
+    "link-href": "https://www.dusa.co.uk/project/enactus",
+    "description": "We are a student led social enterprise running social projects in and around the local Dundee area. Enactus Dundee was established in October 2020 so we are a fairly new society. We aim to make a positive change to the city of the Dundee and to impact lives through our projects. We currently have 3 projects – EduPack which aims at reducing the attainment gap in primary schools, ReKindle which aims at tackling elderly loneliness in Dundee care homes and Boost which currently focuses on youth homelessness and employability in the local area. If you have an idea for a project that will make a positive sustainable impact, then join us.  Being involved gives you the opportunity to be a part of an amazing organisation which can help you improve leadership skills, open up doors through networking with Enactus sponsors and enhance your CV for applying for internships and graduate jobs. We would love to have you as part of our Enactus Team!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/07/enactus-dundee.jpg"
+  },
+  {
+    "name": "Engineering",
+    "type": "Academic",
+    "link": "Engineering",
+    "link-href": "https://www.dusa.co.uk/project/engineering",
+    "description": "We as a society strive to provide great events be it social or academic. The society represents all students within the School of Engineering as well as those that have an interest in anything engineering related, regardless of the course you study. \nOur enthusiastic and driven committee is focused on providing a wide range of social events including nights out such as gaudi, pub crawls and the annual DUES ball. We also run various academic events such as talks from local companies, workshops on topics like leadership skills and boosting your CV! \nWe have a packed year of activities planned with the goal to encourage people to socialise as well as taking the stress away from course work or studying. We also hope that you can pick up some valuable skills that could help you in the future!\n\nIf you have any queries or are interested in joining our society, please head to our Facebook page for more information.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2017/07/Soc_AZ_-Engineering.jpg"
+  },
+  {
+    "name": "Esports",
+    "type": "Hobbies/Interests",
+    "link": "Esports",
+    "link-href": "https://www.dusa.co.uk/project/esports",
+    "description": "Gaming, esports and anime society. We host LAN’s, viewing parties for gaming events and anime and bar meets. Join our discord: https://discord.gg/643FwXT\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ESW-2.jpg"
+  },
+  {
+    "name": "Feminist",
+    "type": "Charitable, Social",
+    "link": "Feminist",
+    "link-href": "https://www.dusa.co.uk/project/feminist",
+    "description": "At FemSoc, we engage in discussions aiming to educate, inspire and advocate for the rights of our members and far beyond. Our aim is to campaign for equality and equity for people of all genders. We are here to provide a safe inclusive space for all of our members and friends, whilst having a lot of fun along the way!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Fem.jpg"
+  },
+  {
+    "name": "Fiction Writing",
+    "type": "Hobbies/Interests",
+    "link": "Fiction Writing",
+    "link-href": "https://www.dusa.co.uk/project/fiction-writing",
+    "description": "Hi and welcome to the Fiction Writing Society!\nTogether, we provide valuable feedback and critique on each other’s work, whether that be prose, poetry, comics or whatever writing project someone has undertaken. We lead discussions about the publishing process and go over whatever writing aspect people are struggling with or want to learn more about. We also enjoy doing fun writing exercises to really push our writing abilities and get those creative juices flowing. \nWhether you enjoying spending your time discovering new planets with your crew, visiting old castles with buried secrets, crying over a tragical romance or if your tastes veer towards something with a little more blood and guts, we have a place for you.\nPss..all the novice writers in the back. Don’t worry, we have plenty of room.\nOur Society is open to all students from UoD and Abertay.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Fiction.jpg"
+  },
+  {
     "name": "Free Speech society (DUFSS)",
-    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2022/01/3DD4C468-A1EE-43F6-8D37-261DF07A0CA3-400x284.jpeg"
+    "type": "Political",
+    "link": "Free Speech society (DUFSS)",
+    "link-href": "https://www.dusa.co.uk/project/free-speech",
+    "description": "We are committed to providing an unbiased, non-judgemental platform to discuss, share and explore a variety of ideas in every walk of life. We frequently invite speakers to discuss various events and encourage healthy and respectful discussion for all.\n\nWe believe that freedom of speech can be upheld and practised in a respectful manner that benefits all, while allowing a safe environment to broaden ideas, challenge opinions and learn about important issues globally.\nEmail this society\nFollow this society on Facebook",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2022/01/3DD4C468-A1EE-43F6-8D37-261DF07A0CA3.jpeg"
+  },
+  {
+    "name": "Friends of MSF",
+    "type": "Charitable",
+    "link": "Friends of MSF",
+    "link-href": "https://www.dusa.co.uk/project/friends-of-msf",
+    "description": "We are Dundee Friends of MSF: a student organisation dedicated to supporting Médecins Sans Frontières (Doctors Without Borders). MSF was founded in 1971 as the first non-governmental organisation to provide both emergency medical assistance and bear witness publicly to the plight of the people it assists. MSF is an international network with branches in 23 countries. \nWe provide support through fundraising events, campaigning and education on matters that affect MSF and wider global health issues. We organise ceilidhs, our annual ‘Great British Bake-off’ and pub-quizzes to fundraise, and hold numerous talks to help spread awareness of our cause. \nWe aren’t just a medical society- all students are welcome! MSF needs doctors, nurses, lawyers, language experts, strategists, logisticians- the list goes on! If you’re interested in humanitarian causes, we’re the society for you!\nTo keep up to date with everything we are doing, like our Facebook page, and follow us on Instagram​!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-MSF.jpg"
+  },
+  {
+    "name": "Geography & Environmental Sciences",
+    "type": "Academic",
+    "link": "Geography & Environmental Sciences",
+    "link-href": "https://www.dusa.co.uk/project/geography-environmental-sciences",
+    "description": "Throughout the year, if you are interested in geography or environmental science we hold and help organise exciting talks from guest speakers about specific subjects or just to chat from their experiences. We also hold talks from past graduates to discuss where they have gone with their degree after graduating. But it’s not all work, every year we have a great time creating small trips to visit scenic areas and hosting pub quizzes and pub crawls.\nThe events that most of us look forward to is our annual ceilidh ball where we all get dressed up and have a boogie. Our gaudi nights are another favourite, where we have themed night out at the start of the year to give a warm welcome to all the new members to the society. GESS is completely open for anyone in the university to join and we encourage everyone to come check us out.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_German-1.jpg"
+  },
+  {
+    "name": "Ghanaian",
+    "type": "Cultural",
+    "link": "Ghanaian",
+    "link-href": "https://www.dusa.co.uk/project/ghanaian",
+    "description": "Akwaaba (welcome)!\nThe Ghanaian Society aims to promote unity & support through the Ghanaian culture of hospitality. We provide a home (away from home) to all our internationals students, making us one big family. The Ghanaian Society host many events to share our culture through food, music, fashion, and all things Ghanaian. Whether Ghanaian or not, there’s a something here for you and we can’t wait to see you there!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_history-1.jpg"
+  },
+  {
+    "name": "Guide Dogs",
+    "type": "Charitable",
+    "link": "Guide Dogs",
+    "link-href": "https://www.dusa.co.uk/project/guide-dogs",
+    "description": "Love puppies? Then Dundee University Guide Dogs Society is perfect for you! Our aim is to raise money and awareness for the guide dogs charity. Not only do we regularly have visits from our furry friends but we’re helping raise awareness for them too! Raising and training a guide dog is expensive and we are so happy we’re able to help! We are currently sponsoring a puppy and are very close to reaching our goal of £2500. We hold lots of fun and exciting events such as pub quizzes and ceilidhs throughout the year as well as organising some puppy therapy during those stressful exam times. More importantly, we are now able to oﬀer trips to the Forfar Guide Dog training centre so you can see where the action takes place! We will be holding various events throughout the year, so look out for us.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Guide_dogs_3.jpg"
+  },
+  {
+    "name": "HandCraft",
+    "type": "Arts",
+    "link": "HandCraft",
+    "link-href": "https://www.dusa.co.uk/project/handcraft",
+    "description": "Looking for a wholesome community to be a part of? Or for a new, relaxing, and creative hobby to learn? Or for a place where you can showcase your talent and teach others your favourite craft? Look no more! \nThe HandCraft Society is the answer to all your questions; a place where we are trying to show everyone that adapting the lifestyle of an 80-year-old at Uni is the best choice you can make. Through our events, you can master or familiarise yourself with a craft, such as embroidery, knitting, and crochet; joining our community you can find support and inspiration for your first or next project.\n\n\nEmail this society\nFollow this society on Facebook\nFollow this society on Instagram",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/handcraft-society-1.png"
+  },
+  {
+    "name": "History",
+    "type": "Academic",
+    "link": "History",
+    "link-href": "https://www.dusa.co.uk/project/history",
+    "description": "“We are not makers of history. We are made by History” – Martin Luther King Jr.\nThe History Society is open not only to History students here at Dundee, but anyone who shares an interest in the subject or is simply looking to meet new people. We work hard to make sure members’ academic and social needs are supported, working closely with the School of Humanities to provide study skills events including help with essays and referencing; as well as hosting frequent socials which have included Quizzes, pub crawls, tours, trips and the Christmas meal/end of year ball. We’ve been providing all of the above since 2010 when we were resurrected and would welcome any new members to help us continue to be there for the students and staff of Dundee regardless of university and subject.\n\n\nEmail this Society\nFollow this Society on Facebook\nFollow this Society on Instagram",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/history-society.jpeg"
+  },
+  {
+    "name": "Hong Kong",
+    "type": "Cultural",
+    "link": "Hong Kong",
+    "link-href": "https://www.dusa.co.uk/project/hong-kong",
+    "description": "The Hong Kong Society is a place for students from Hong Kong to connect with their home city as well as anyone who would like to know more about Hong Kong. Join our society to meet new friends and make life long connections, we celebrate important Chinese festivals and gather together regularly during our social and cultural events. We are also sponsored by local restaurants in Dundee so you can expect some perks by being our member! We cannot wait to meet you all!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_HongKong.jpg"
+  },
+  {
+    "name": "Humanities",
+    "type": "Academic",
+    "link": "Humanities",
+    "link-href": "https://www.dusa.co.uk/project/humanities",
+    "description": "Community, Creativity, Connectivity. \nThe Humanities Society was re-established to improve connections between Humanities subjects, school and students. Since restarting we have created many exciting traditions, such as our annual Ball, Conference, International Trip and weekly socials. \nHumSoc’s Journal and Conference allow you to publish work and gain industry recognition. \nMeanwhile our Gaudie Families connect you to support networks across year-groups and subjects – plus great nights out!\nWe strive to encourage participation in our community, individuals can contribute to the running of the society, gaining credentials and skills. \nIf you are a student of Creative Writing, English, Film, History, Language or Philosophy (or if you have an interest in any of these fields) join the society that gives you support, skill building and social opportunities. \nJoin the Humanities Society, we look out for you​.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_hum.jpg"
+  },
+  {
+    "name": "Indian",
+    "type": "Cultural",
+    "link": "Indian",
+    "link-href": "https://www.dusa.co.uk/project/indian",
+    "description": "The University of Dundee Indian Society’s main goal is to unite students from India and other countries. We would like to help both international and home students by welcoming them to the University and to making their student experience the best they can get. We organise many diﬀerent events such as cultural programmes, trips, parties and meetings to allow everyone to get together and just have some fun. Most importantly, this society is not just for Indians…we have members from other countries, as well as local students from Dundee.\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Indian_2.jpg"
+  },
+  {
+    "name": "International Law society",
+    "type": "Academic",
+    "link": "International Law society",
+    "link-href": "https://www.dusa.co.uk/project/international-law",
+    "description": "Dundee International Law Society seeks to bring further attention to the most pressing issues of international law and provide a forum for those interested in international law, politics and international relations. Through guest speakers, weekly commercial awareness updates and debates, and a network of international connections in the public law, corporate and criminal spheres, members of Dundee International Law Society are given the opportunity to expand their understanding of the law at an international level and their knowledge of global issues and relationships.\n\nDILS hosts a plethora of events, from the experiences of an Advocate from Colombia to the reality of Sharia Law and the work of the Colombian Truth Commission to name a few. Through our connections, we have a great deal of exciting opportunities planned for our members with a focus on more international issues. We are an inclusive society and members are not required to be law students to join.\n\nEmail this society\nFollow this society on Facebook\nFollow this society on Twitter\nFollow this society on Instagram\nCheck out the society website",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_IntLaw.jpg"
+  },
+  {
+    "name": "Islamic",
+    "type": "Cultural, Religious",
+    "link": "Islamic",
+    "link-href": "https://www.dusa.co.uk/project/islamic",
+    "description": "Assalamualaikom. We are the Dundee University Islamic Society, or DUIS, if you find that as much of a mouthful as we do. Our Vision is, “TO DEVELOP CONFIDENCE IN FAITH WHILST ENJOYING STUDENT LIFE.” Let’s break that down: we’re basically here to make sure your university experience is as well rounded and the best it can be – all whilst accompanying you on a journey of spiritual growth. Having previously won the award for ‘Most Active Society of the Year,’ you can count on the fact that you’ll be constantly hearing from us with updates ranging from religious educational events to our popular socials. \nBeing one of the largest and oldest societies (founded in 1927, isn’t that crazy?!), we are constantly evolving and adapting. Even with our open and diverse membership, you can rest assured that no matter your preference we will have something for you. Don’t believe us? Go ahead and check who won ‘Society of the Year 2019/20’ (spoiler alert, we did).",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Islam.jpg"
+  },
+  {
+    "name": "Just Love",
+    "type": "Charitable, Religious",
+    "link": "Just Love",
+    "link-href": "https://www.dusa.co.uk/project/just-love",
+    "description": "JustLove Dundee are a passionate community of Christian students relentlessly pursuing God’s heart for justice in our city, our nation and our world. Week to week this looks like running campaigns and events to tackle a variety of social justice issues such as human trafficking and the refugee crisis, and exploring the bible together to deepen our understanding of what God’s heart for justice really is. Come along if you are a student that loves God, loves others, and wants to be transformed to pursue Jesus and justice as you walk through university life!\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Just.jpg"
+  },
+  {
+    "name": "Kink Society, DUKS",
+    "type": "Hobbies/Interests",
+    "link": "Kink Society, DUKS",
+    "link-href": "https://www.dusa.co.uk/project/kink",
+    "description": "If you’re a pro or an absolute newbie to kink vanilla or not, DUKS is a safe and inclusive space to learn and chat openly about all things kinky! Our regular munches, social events and workshops allow a welcoming and friendly environment to meet and socialise with many other like-minded people. As well as offering the chance to learn something new in a safe way!\n\nEmail this society\nFollow this society on Facebook\nFollow this society on Instagram\nUse our linktree to find everything DUKS!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/kink-society.png"
+  },
+  {
+    "name": "Labour Students",
+    "type": "Political",
+    "link": "Labour Students",
+    "link-href": "https://www.dusa.co.uk/project/labour-students",
+    "description": "Dundee Labour Students is a student-led political organisation with an interest in promoting Labour values amongst students at the University of Dundee. Our society can provide the opportunity to get involved in grassroots political activism and attend social events where you can make new friends and discuss the current issues of the day. Our social element is a large part of our society and you do not have to be of any particular political persuasion to join in and participate and our aim is to engage with students from a variety of different backgrounds.\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LatinAmer-1.jpg"
+  },
+  {
+    "name": "Latin American",
+    "type": "Cultural",
+    "link": "Latin American",
+    "link-href": "https://www.dusa.co.uk/project/latin-american",
+    "description": "​The Latin American Society (LAS) aims to promote Latin American culture among students of diverse backgrounds. We celebrate our culture by bringing Latin Americans and people from other parts of the world together through a wide range of events such as socials, Spanish lessons, potlucks, and nights out. The society also collaborates with important institutions abroad through its own academic subcommittee to organise talks on pressing issues affecting Latin America. You can find more about the projects led by the LAS Academic Subcommittee on the blog.\nJoin LAS if you want to dive into our culture and make new friends!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LatinAmer.jpg"
+  },
+  {
+    "name": "Latin Dance",
+    "type": "Cultural, Hobbies/Interests",
+    "link": "Latin Dance",
+    "link-href": "https://www.dusa.co.uk/project/latin-dance",
+    "description": "Are you passionate about dancing? Or maybe you want to try something new and make friends? Whether you are a complete beginner or advanced dancer you will be warmly welcome in our classes which take place in an easy-going, sociable atmosphere.\nWe dance chachacha, samba, rumba, and jive routines and always add some new fancy moves, too. No need to bring a partner – there are plenty of people to dance with. Apart from weekly lessons, we also organize social events, such as nights out and also a competition in the end of each semester.\nSee you on the dance floor!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Latin.jpg"
+  },
+  {
+    "name": "Law",
+    "type": "Academic",
+    "link": "Law",
+    "link-href": "https://www.dusa.co.uk/project/law",
+    "description": "Dundee University Law Society (DULS) is run by law students, for law students. We provide support in terms of careers, academia and social events. Throughout the year you can expect many events catered to all diﬀerent tastes, such as various social gatherings (including our famous Gaudie and Revenge nights, as well as the renown Dundee Law Ball). DULS also provide informative career workshops that allow attendees to connect with some of the world’s top firms. You can ﬁnd all of this and more by becoming a member of the society. Signups are open to all matriculated students at the University of Dundee.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Law.jpg"
+  },
+  {
+    "name": "LGBT+",
+    "type": "Cultural, Social",
+    "link": "LGBT+",
+    "link-href": "https://www.dusa.co.uk/project/lgbt",
+    "description": "The Dundee University LGBT+ Society offers support and opportunities for fun, socialising, education, and activism for the lesbian, gay, bisexual, transgender, and queer community across Dundee.\nAnyone is welcome to become a member, and to take part in our activities and service, which include regular socials at the Union, exciting trips, film screenings, guest speakers, a befriending service, coffee mornings, awareness training, as well as activism and discussion of issues that impact the lives of LGBTQ+ people not only in Dundee, but around the world. Come along, make friends, and make a difference!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Lgbt.jpg"
+  },
+  {
+    "name": "Life Sciences",
+    "type": "Academic",
+    "link": "Life Sciences",
+    "link-href": "https://www.dusa.co.uk/project/life-sciences",
+    "description": "The Dundee University Life Science Society is one of the biggest societies on campus! Every year we offer both Social and Academic events for all members. This includes the annual DULSS Ball, academic talks with researchers, doctors and professors from within and outside the Uni, pub quizzes, academic trips away and Gaudie events! We always provide inclusivity for all members providing new and exciting events each and every year! And remember you don’t have to be a Life Science student to join the society – you just need to be a matriculated student!\nJoining DULSS will allow you to meet students across all year groups especially through the Gaudie family system – Gaudie parents are always happy to help out with questions about your studies!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LifeSci-1.jpg"
+  },
+  {
+    "name": "LIP Theatre",
+    "type": "Arts",
+    "link": "LIP Theatre",
+    "link-href": "https://www.dusa.co.uk/project/lip-theatre",
+    "description": "LIP Theatre Company is the University’s only student-run drama society. We give any student the chance to get involved in all areas of theatre: from writing and acting to costume and set design, regardless of past experience. We put on at least three to six productions every year. Typically these consist of original plays created by the society, known and licensed plays, a pantomime at the end of semester one, variety and cabarets, as well as taking shows to the Edinburgh Fringe Festival.\nJoining LIP is a fantastic way to meet new people and with post-rehearsal drinks, huge pub crawls, after-show parties and an end of year ball – the social side of LIP is deﬁnitely not something to be missed. Everyone is welcome to join at any time! We can also be found and contacted through our linked Facebook page.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_LIP_4.jpg"
+  },
+  {
+    "name": "Low Impact Living",
+    "type": "Social",
+    "link": "Low Impact Living",
+    "link-href": "https://www.dusa.co.uk/project/low-impact-living",
+    "description": "Our planet needs YOU! The Low Impact Living society is an ever-growing student-led sustainability, zero-waste and ethical living society. Everyone is welcome, and we aim to share easy swaps and tips and tricks to lead a more eco-conscious lifestyle. We are all super-friendly and we are always learning new ways to make a change both locally and globally, and we love to have new people with fresh ideas on board! We organise events in and around Dundee which all are welcome to; these include regular campus clean-ups, vegan potlucks, socials and workshops where we make our own ‘DIY’ products, such as soap and beeswax wraps and movie nights with a sustainability theme. We can’t wait to have more events like these very soon and would love to have you on board!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_Low.jpg"
+  },
+  {
+    "name": "Malaysian",
+    "type": "Cultural",
+    "link": "Malaysian",
+    "link-href": "https://www.dusa.co.uk/project/malaysian",
+    "description": "DUMAS is a society dedicated to celebrating different cultures all together in festivals such as Chinese New Year, Deepavali and etc. Everyone is welcome to join as this is a great opportunity to learn about cultural foods as well as games like mahjong. Most importantly we are here to make you feel at home or help you out when you need it!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Dumas.jpg"
+  },
+  {
+    "name": "Marrow",
+    "type": "Charitable",
+    "link": "Marrow",
+    "link-href": "https://www.dusa.co.uk/project/marrow",
+    "description": "We’ve found the cure for blood cancer. Pleased to meet you!\nMarrow Dundee is for anyone who wants to make a difference in the fight against cancer. Every 20 minutes, someone in the UK is diagnosed with blood cancer. We work to recruit potential lifesavers to the stem cell and bone marrow register.\nOur society raises awareness of the amazing work of Anthony Nolan. We run recruitment events all over campus and fundraise to ensure everyone that needs a matching stem cell donor has a second chance at life. Our events are lots of fun, and really rewarding. We have regular socials, so volunteering with us is a great way to make friends and to really make the most out of your time at UoD!\nJoin us as a volunteer today to help us continue our lifesaving work!\nRegistered Charity No. 803716 / SC038827",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Marrow.jpg"
+  },
+  {
+    "name": "Maths",
+    "type": "Academic",
+    "link": "Maths",
+    "link-href": "https://www.dusa.co.uk/project/maths",
+    "description": "Dundee University Maths Society is not just for those studying maths, but anyone with an interest in STEM. Whether you have an issue with an aspect of mathematics in your course or are simply interested in the various social events throughout the year, everyone is welcome!\nOur events include everything from pub crawls and pub quizzes to our annual ceilidh ball, which is popular with not only society members but staff too.\nOur members are given the choice to opt-in to our academic family system where you are placed in a ‘family’ with other students from various years in order to provide academic support through your University life.\nSo, whether you’re looking for academic help or simply to meet new friends from a STEM discipline come along and get involved!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Maths.jpg"
+  },
+  {
+    "name": "MedAID",
+    "type": "Charitable",
+    "link": "MedAID",
+    "link-href": "https://www.dusa.co.uk/project/medaid",
+    "description": "Dundee Student MedAID is a student-run charity and society that collects unused, out-of-date equipment from local hospitals around Dundee. We then redistribute this equipment to resource-limited medical institutions around the world. The collected out-of-date medical equipment is donated and redistribution coordinated by medical students on electives, humanitarian health workers and other NGOs.\n\nOur aim is to provide a platform to bridge the gap between waste in the NHS and shortage of medical equipment in resource-limited settings while advocating for increased sustainability in medicine and decreased healthcare inequalities worldwide. We would love for any enthusiastic students to join us!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_-MEDAid.jpg"
+  },
+  {
+    "name": "Medieval Re-enactment society",
+    "type": "Hobbies/Interests",
+    "link": "Medieval Re-enactment society",
+    "link-href": "https://www.dusa.co.uk/project/medieval-re-enactment",
+    "description": "Join in with 14th century Scottish re-enactment with us! It’s much more fun than a history lesson; we can teach you authentic crafts and pull-blow combat, both of which you can show off at medieval fayres all over the country in the summer months. \nIf you love learning and making new things – along with campfires and camping – then re-enactment is something you might love too. We strive to make a fun and relaxed atmosphere during combat training and craft sessions where anyone can just come and chat or have a look at what we’re doing. We’re open to everyone, not just students!\n\nEmail this society\nFollow this society on Facebook \nFollow this society on Instagram",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/596BD882-1AD5-4BFB-8B63-441F3C0991B5.jpeg"
+  },
+  {
+    "name": "Mental Health",
+    "type": "Social",
+    "link": "Mental Health",
+    "link-href": "https://www.dusa.co.uk/project/mental-health",
+    "description": "The Mental Health Society aims to reduce the stigma and misunderstanding surrounding mental illness, promote mental well-being and provide a safe space to talk about mental health. You can expect several exciting events throughout the year that allow you to de-stress and challenge your assumptions about mental health. We also fundraise for local mental health organisations through fun pub quizzes and yummy bake sales that you can get excited for! Everybody is welcome to come and speak out about their mental health, have fun at our events and join our society. For more specific information, follow us on our social media or write us an email.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Mind-1.jpg"
+  },
+  {
+    "name": "Model United Nations",
+    "type": "Academic, Political",
+    "link": "Model United Nations",
+    "link-href": "https://www.dusa.co.uk/project/model-united-nations",
+    "description": "Model United Nations is a simulation of the United Nations, organised by students from a wide variety of backgrounds and academic disciplines. Every week we discuss international issues, and we debate about possible solutions to these issues on behalf of the countries we are representing for that meeting. Members develop exceptional public speaking skills and a broad and deep understanding of international affairs in a fun and interactive way. With the skills acquired during our meetings, we participate in international conferences in the UK and in Europe, which are partially funded to make it accessible for all students. It is an amazing opportunity to meet new people, not just from the society but also from around the world. Our society is open to both Dundee and Abertay University students. We hope to see you in our meetings!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Mun.jpg"
+  },
+  {
+    "name": "Mooting",
+    "type": "Academic",
+    "link": "Mooting",
+    "link-href": "https://www.dusa.co.uk/project/mooting",
+    "description": "Mooting is the oral presentation of a legal issue or problem against an opposing counsel and before a judge. Mooting is the closest experience that a university student can have appearing in court submitting legal arguments as either appellant or respondent. Along with improving advocacy, mooting helps  build conﬁdence in public speaking, general legal research and presentation skills.  The Mooting Society runs training workshops for interested students to prepare them for our two annual internal mooting competitions, along with the opportunity to represent Dundee University in external competitions throughout the UK. UDMS also runs a number of social events throughout the year along with organising speaker events from advocates and barristers throughout the country.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Moot.jpg"
+  },
+  {
+    "name": "Music",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Music",
+    "link-href": "https://www.dusa.co.uk/project/music",
+    "description": "The Dundee Uni Music Society consists of a range of different groups, catering for a wide variety of musicians in Dundee; both students and staff. We have 2 choirs (an auditioned for chamber choir alongside the larger normal choir), an orchestra, big band (playing/singing jazz) and tradsoc (Scottish and Irish traditional music). The groups each meet weekly, with the majority working towards 2 main annual concerts, alongside smaller performances throughout the year.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Music.jpg"
+  },
+  {
+    "name": "Nigerian",
+    "type": "Cultural",
+    "link": "Nigerian",
+    "link-href": "https://www.dusa.co.uk/project/nigerian",
+    "description": "The Nigerian Students Society University of Dundee is the student body for all Nigerians studying at the University of Dundee. This society was formed with aim of fostering unity amongst us, supporting ourselves academically and otherwise. Our philosophy is that we are our own fathers, mothers, brothers and sisters out here. We usually have so many activities during the academic year ranging from academics (seminars, workshops, Q &A sessions etc) to social (field trips, games, sit outs, etc). Join us and make your stay more interesting.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-2.jpg"
+  },
+  {
+    "name": "Nordic",
+    "type": "Cultural",
+    "link": "Nordic",
+    "link-href": "https://www.dusa.co.uk/project/nordic",
+    "description": "Welcome to The Nordic Society where, like the name indicates, we appreciate all things Nordic culture! We have weekly socials and monthly events, where we explore the different parts of Nordic culture by hosting themed events, go ice skating, cook traditional dishes, watch Linnanjuhlat (Finnish independence), go to IKEA, celebrate Fastelavn (Danish festival) and many other fun things. It is a great way to meet new friends and make Dundee feel more like home. Whether you are from one of the Nordic countries, a fan of Nordic culture or simply a curious wanderer, you are always welcome in our society.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Nordic.jpg"
+  },
+  {
+    "name": "Nursing Society",
+    "type": "Academic",
+    "link": "Nursing Society",
+    "link-href": "https://www.dusa.co.uk/project/nursing-society",
+    "description": "Welcome to Nursing Society.\nThis society has been created for those of you who have an interest in nursing and to support the students in health sciences as well as allow us to make life-long friends!\nWe plan to hold both social and educational events throughout each year such as:\n\nthemed nights out,\ncelebrations at the end of placements,\ntalks with qualified nurses and other health professionals,\nstudy meet-ups, famous gaudie night,\nand many more.\n\nWe are happy to take suggestions. You don’t need to be a health sciences student to join. Get involved!\n\nEmail this Society\nFollow this Society on Instagram",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/nursing-society.jpg"
+  },
+  {
+    "name": "Obstetrics and Gynaecology",
+    "type": "Academic",
+    "link": "Obstetrics and Gynaecology",
+    "link-href": "https://www.dusa.co.uk/project/obstetrics-and-gynaecology",
+    "description": "This society is aimed at Dundee Medical students who are passionate about women’s health, particularly obstetrics and gynaecology. We are a relatively new society which has expanded steadily over the recent years and have organised numerous events ranging from film screenings, career nights to revision nights. We have recently produced a learning resource in collaboration with the obstetrics and gynaecology department in Ninewells Hospital which has been made available to students. \nWe aim to support students by offering opportunities to explore their career and develop their interests in the speciality. We look forward to welcoming new members to the society in the new academic year!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-1.jpg"
+  },
+  {
+    "name": "Operatic (OpSoc)",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Operatic (OpSoc)",
+    "link-href": "https://www.dusa.co.uk/project/operatic",
+    "description": "OpSoc: musical theatre at the University of Dundee since 1963. If you love to sing, dance, and act then OpSoc is the society for you! OpSoc produces a full-scale musical every year, as well as staging a number of concerts and smaller shows to constantly give people something to be excited about!\nOpSoc is a society that wants to make sure its members have fun. From socialising after rehearsals, to film nights, the OpSoc ball, and our annual London trip, there is plenty to get involved in and look forward to. \nTo keep up-to-date with the society, follow us on Facebook and Instagram under Dundee OpSoc!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC.jpg"
+  },
+  {
+    "name": "Participation",
+    "type": "Hobbies/Interests, Social",
+    "link": "Participation",
+    "link-href": "https://www.dusa.co.uk/project/participation",
+    "description": "DUPS is a social sports group intended to be fully inclusive and accessible for everyone. We offer different sports and activities each week, with a variety of regular socials (drinking and non-drinking) at a very low price- the cheapest way to participate in sport at university!\nOur activities are played in a “non-competitive” manner, with us welcoming all skill levels, so our sessions are a great way to stay active and social without the pressure or expense of joining a sports team. Some of the activities we‘ve previously offered include: dodgeball, rounders, American football, and Zumba! If you want to try a sport or activity just suggest it and we will do our best to organise it!\nAs a society, we love seeing new faces and everybody ‘giving it a go!’ So come on down to see what we are about…",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_part.jpg"
+  },
+  {
+    "name": "PENSA Dundee",
+    "type": "Religious",
+    "link": "PENSA Dundee",
+    "link-href": "https://www.dusa.co.uk/project/pensa-dundee",
+    "description": "PENSA Dundee is Christian campus ministry focused on learning and spread the Word of God. With the motto “Raising world changers with the Christ factor”, we aim to share the love of the Lord and grow together in His word. As a family of Christians, we love to study the Bible, worship, eat and laugh together, and we would love to see you there!\n\nEveryone is welcome at PENSA!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-PENSA.jpg"
+  },
+  {
+    "name": "Physics",
+    "type": "Academic",
+    "link": "Physics",
+    "link-href": "https://www.dusa.co.uk/project/physics",
+    "description": "Do you want to join one of the best Societies on Campus? Then look no further! Voted DUSA’s Society of the Year 2014/15 and 2016/17, we host events every month! The best part? You don’t have to be a Physics student to join!\nHighlights of a year with us include the annual ball, themed pub quizzes and crawls, laser tag, camping trip, Revenge Night and more! With our ultimate event being an annual trip abroad to places such as CERN in Switzerland, Munich, Krakow and Amsterdam. \nWe also host weekly study sessions designed for STEM subjects to help you through your degree. These drop-in sessions among all our events give you a chance to get to know people across the Uni. \nInterested? Come and say hello at Freshers Fair or you can contact us anytime via email or on Facebook, Twitter, Instagram and Snapchat.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Physics.jpg"
+  },
+  {
+    "name": "Plant",
+    "type": "Hobbies/Interests",
+    "link": "Plant",
+    "link-href": "https://www.dusa.co.uk/project/plant",
+    "description": "Welcome to Dundee plant society! A society for plant beginners and plant gurus! Within this society we provide a friendly and welcoming community for plant enthusiasts. You can join the Discord, or follow our Instagram for tips, tricks and any plant related advice.\nBecome a member today!\nMember perks include:\n\nSwap cuttings with other members\nAttend plant related events – eg plant swap, socials\nVolunteering in the community\nCheaper plants\nAbility to contribute to the improvement of the society by suggestions\nPlant baby sitting over the holidays\n\nFor a small membership fee you can be part of this ever-growing society.\n\nEmail this society\nFollow this society on Facebook\nFollow this society on Instagram\nJoin the Discord for this society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/plant-society.jpg"
+  },
+  {
+    "name": "Polish",
+    "type": "Cultural",
+    "link": "Polish",
+    "link-href": "https://www.dusa.co.uk/project/polish",
+    "description": "Polish Society is open to everyone and it’s much more than a place for the Polish people to meet each other. We welcome everyone who is interested in Polish culture and language.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Polish.jpg"
+  },
+  {
+    "name": "Politics",
+    "type": "Political",
+    "link": "Politics",
+    "link-href": "https://www.dusa.co.uk/project/politics",
+    "description": "Bringing the most important topics to the fore – the Politics society pulls together people interested in a world that’s always changing and people who want to shape the structures of our society’s future. We discuss politics from around the world through events that allow our members to bring issues that matter to them into the spotlight. Whatever your political affiliations or ideology, we’re here to discuss, debate and analyse the complicated, intricate and crazy systems of governance in our society as well as human rights issues, international relations, comparative politics and global issues facing our planet. If you want to meet people who plan to change the world in the future – the Politics society is the right place for you.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_political.jpg"
+  },
+  {
+    "name": "Postgrad",
+    "type": "Academic",
+    "link": "Postgrad",
+    "link-href": "https://www.dusa.co.uk/project/postgrad",
+    "description": "The University of Dundee Postgraduate Society is a society for all postgraduate students to have events, share news, careers and research and most importantly, to connect and interact with one another. We would love to hear from Postgraduate Students from all disciplines to get involved with fundraising ideas and events.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_post.jpg"
+  },
+  {
+    "name": "Preventing Period Poverty",
+    "type": "Charitable",
+    "link": "Preventing Period Poverty",
+    "link-href": "https://www.dusa.co.uk/project/preventing-period-poverty",
+    "description": "We are striving to educate the students of Dundee, and the wider community, on the issue of period poverty and what we can do to change it! We want to raise awareness on the importance of good menstrual and sexual health, the problems people face when trying to access sanitary products, and the stigma that currently surrounds menstruation. No person should be disadvantaged simply because of a normal bodily process.\n\nHelp us break the cycle of poverty and give every uterus a bloody good period!\n\n(PS. no you don’t need a uterus to join our society, just the urge to make a change!)",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ppp.jpg"
+  },
+  {
+    "name": "Psychology",
+    "type": "Academic",
+    "link": "Psychology",
+    "link-href": "https://www.dusa.co.uk/project/psychology",
+    "description": "We are the Dundee University Psychology Society! During the year we hold many different events ranging from social to academic. We usually kick off the year at the Freshers Fair where we get to meet a lot of psychology students, new and old. Our social events vary every year, but they are a great way to meet people on your course and in your year. Throughout the year we invite guest speakers, who are in different fields in psychology, to tell us more about their jobs and how they got there. It’s a great way to learn more about a field you might be interested or to learn something new! DUPS end the year with an annual ball! This is a great way for everyone from first to fourth year to kick off their shoes, let their hair down and celebrate their hard work before exams! If you are interested and would like to meet new people and learn something new, sign up today!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_psychology_2.jpg"
+  },
+  {
+    "name": "Redeemed Christian Fellowship",
+    "type": "Religious",
+    "link": "Redeemed Christian Fellowship",
+    "link-href": "https://www.dusa.co.uk/project/redeemed-christian-fellowship",
+    "description": "The Redeemed Christian Fellowship (RCF) Society Dundee is a DUSA affiliated student’s society built around objectives that include supporting members of the Redeemed Christian Church of God, and other Christians at the University of Dundee, by helping them settle in and supporting them throughout their academic career.\nWe also provide moral support through one-to-one coaching and combined tutorials, building future leaders through mentoring. But, above all, to help people get closer to God! During the meetings, members have the opportunity to meet with post-graduate students who offer further academic and moral assistance.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_redeam.jpg"
+  },
+  {
+    "name": "Roleplaying",
+    "type": "Hobbies/Interests",
+    "link": "Roleplaying",
+    "link-href": "https://www.dusa.co.uk/project/roleplaying",
+    "description": "Since 1986 the Dundee University Role-Playing Society has been facilitating any and all RPGs. From gracing ancient courts to trawling deep-space, all systems and settings are go!\nIf adventure still calls, we now boast two regular fantasy LARPs, often held off campus in forests around Dundee. There’s never been a better excuse to smack your best friend with a sword.\nWhether you’ve never rolled a dice before, or you’ve been running games since you could hold a monster manual, DURPS is a growing community always looking to welcome new members. You can find us on Facebook or contact us by email if you have any queries.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Roleplaying.png"
+  },
+  {
+    "name": "Route2 society",
+    "type": "Academic",
+    "link": "Route2 society",
+    "link-href": "https://www.dusa.co.uk/project/route2",
+    "description": "Welcome to Route2! Studying law does not mean that you have to become a paralegal, solicitor, barrister, advocate or judge. There are other careers out there too! We are a sister society of the Dundee University Law Society (DULS) and our aim is to expose law students to the vast array of career opportunities outside of the legal sector. These include: the Civil Service, the police, the financial sector, media, teaching, forensics, and many more.\n\nRoute2 shall host employer events, as well workshops aimed at CV building, interview preparation and LinkedIn profile building (in collaboration with DULS). Ultimately, Route2 hopes to increase student awareness of these alternative careers, and provide a support network for students along their career journey!\n\nEmail this Society\nFollow this society on Facebook\nFollow this Society on Instagram",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2022/01/EC27C677-D800-4408-A048-A94A73336817.png"
+  },
+  {
+    "name": "Salsa",
+    "type": "Cultural, Hobbies/Interests",
+    "link": "Salsa",
+    "link-href": "https://www.dusa.co.uk/project/salsa",
+    "description": "Our society aims to give you a fun experience while also learning a cool new party trick! Salsa is a fun dance with very simple basic steps that can be flourished, making it your own. Our society provides the cheapest salsa experience in Dundee and it does not end there! \nWe have amazing social events as well, like pub quizzes, fantastic Latin Heat parties, trips to salsa conventions or anywhere else if the weather allows us to. We have mainly delved into Salsa and Bachata, but we branch out and try dances like Kizomba too! We also aim to set up more outdoor activities and experiment with teaching solo routines. We collaborate with different societies and have great relationships with them, so the events are fantastic! You do not need to bring a partner, or any fancy dance shoes just come in whatever you are comfortable with! We encourage you to join regardless of what skill level (even two left feet), EVERYONE is welcome, and we hope to see you soon!\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Salsa.jpg"
+  },
+  {
+    "name": "Saudi",
+    "type": "Cultural",
+    "link": "Saudi",
+    "link-href": "https://www.dusa.co.uk/project/saudi",
+    "description": "​\nSaudi society organizes social and cultural activities to define the Arabic culture, promote the cultural exchange within the university societies, celebrate national days, teach the Arabic language, host trips with Arabic coffee and food festivals.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Scot-1.jpg"
+  },
+  {
+    "name": "Save the Children",
+    "type": "Charitable",
+    "link": "Save the Children",
+    "link-href": "https://www.dusa.co.uk/project/save-the-children",
+    "description": "Save the Children is an international charity that strives to protect the rights of children, give access to healthcare, prevent malnutrition, and support education. Through speaking out about the work of Save the Children, campaigning and holding various fund-raising events, our ambitious team works to make a difference in children’s lives across the world. If you are passionate about making a change in a child’s life and ensuring that all children get accesses to basic education, good health, and is protected from all forms of abuse and violence, then volunteering with Save the Children may be the right place for you!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_-Save.jpg"
+  },
+  {
+    "name": "Scottish Dance",
+    "type": "Cultural, Hobbies/Interests",
+    "link": "Scottish Dance",
+    "link-href": "https://www.dusa.co.uk/project/scottish-dance",
+    "description": "New to Scotland and want to experience some traditional Scottish culture in a friendly, active setting? Or miss practicing your ceilidh moves and want to pick them up again? Then come along and step on someone’s toes, then laugh about it later over a pint. Open to all, we host ceilidhs with live music and lots of laughs along with dance classes which have a mix of ceilidh and traditional country dances, an excellent opportunity to understand a little bit more about a part of Scottish culture which isn’t often seen. Ceilidhs are a brilliant way of building lasting friendships in a short time and promise a night to remember. We provide entertainment throughout our ceilidhs, and the opportunity to make friends, have a drink, or feast on a bake sale plus the option to go out-with campus to travel to other university’s ceilidhs.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Scot.jpg"
+  },
+  {
+    "name": "Scottish Nationalist",
+    "type": "Political",
+    "link": "Scottish Nationalist",
+    "link-href": "https://www.dusa.co.uk/project/scottish-nationalist",
+    "description": "DUSNA is a society for students who support the aims of the SNP and who believe in an independent Scotland. \nWe are affiliated to the SNP’s student wing and many of our members are involved within the party locally. We also have close links both with local party branches and Young Scots for Independence, the party’s youth wing.\nWe hold regular meetings, events and socials – from pub crawls to campaigning and everything in between. If you believe in creating a fairer and more equal Scotland, or are simply interested in finding out more, you’ll be made more than welcome at any of these events. \nWe look forward to welcoming you to a DUSNA event soon!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ScotNat.jpg"
+  },
+  {
+    "name": "Self Defence",
+    "type": "Hobbies/Interests",
+    "link": "Self Defence",
+    "link-href": "https://www.dusa.co.uk/project/self-defence",
+    "description": "Ever thought of learning a self defence system that actually works in a real situation? \nIf the answer is ‘yes,’ then come along and join the Self Defence Society. We train weekly and the class is quite laid back, so if you’re late or need to leave early, that’s no problem!\nWe work on realistic tools and scenarios that help you stay safe and get out of danger if you need to. Our techniques and approach are designed for those with no previous experience, and we do not rely on strength or fitness alone to achieve getting to a place of safety in one piece. \nIf you plan on taking part, it’s best to wear jogging bottoms/shorts and a t-shirt, and also bring a bottle of water (you will get a bit of a work-out). We will be running beginner focused taster sessions throughout October which will give an overview of what we get up to, so come and find us and have a go.\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Self-def.jpg"
+  },
+  {
+    "name": "Sexpression",
+    "type": "Charitable",
+    "link": "Sexpression",
+    "link-href": "https://www.dusa.co.uk/project/sexpression",
+    "description": "Our society is a student-led branch of the nationwide charity Sexpression: UK, that delivers Relationship and Sex education to local schools.\nOur aim is to give sex education that has a focus on inclusivity and diversity. Though we cover a wide variety of topics within RSE (Relationship and Sex education), we delve into subjects such as consent and the non-stigmatisation of STIs. We also explore issues of sexism, racism and LGBTQ+ inequality within sex education.\nBeing part of this society and volunteering allows you to gain impressive experience for your CV. We hold workshops on sexual health, kink, navigating relationships and body image. We also hold events like pub quizzes, film screenings, and a chance to hang out with like-minded students.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sex.jpg"
+  },
+  {
+    "name": "Show Choir",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Show Choir",
+    "link-href": "https://www.dusa.co.uk/project/show-choir",
+    "description": "Were you ever obsessed with the show GLEE? Do you love to sing and/or dance? Would you like a creative and safe outlet to perform in and make friends along the way?\nIf you answered yes to any of the above, welcome to the perfect society for you. We are a brand-new society founded in 2020, with a fun, relaxed weekly meet dedicated to providing a safe space to improve and show off your performance skills and join in on a boppy group number. If you are more serious about show choir and want to get involved in competitions, you can audition for our competition choir which runs on a separate night. You can find times and venues, as well as any events we participate in on our Facebook page.\nIf you have any questions, feel free to email us or send us a message on Facebook or Instagram.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Music-Soc.jpg"
+  },
+  {
+    "name": "Sign Language",
+    "type": "Charitable, Social",
+    "link": "Sign Language",
+    "link-href": "https://www.dusa.co.uk/project/sign-language",
+    "description": "UoD SignSoc aims to teach British Sign Language (BSL) and d/Deaf awareness to everyone, host social events, fundraise for local charities, and provide outreach opportunities. Throughout the year we throw pub quizzes, ceilidh’s, and hold weekly classes to teach BSL.\nWe are the perfect society if you are looking to learn a new language and have some fun alongside it so why not come along to our class?",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SignLanguage-2.jpg"
+  },
+  {
+    "name": "Singaporean",
+    "type": "Cultural",
+    "link": "Singaporean",
+    "link-href": "https://www.dusa.co.uk/project/singaporean",
+    "description": "University of Dundee Singapore Society (DUSG) is a society which aims to provide a home away from home for Singaporeans studying and living in Dundee. Living overseas might be challenging, so DUSG exists to provide strong support structures to help Singaporeans integrate well into this new environment. Furthermore, our initiatives and events throughout the academic year centre around the various festivals and celebrations a typical Singaporean would experience back at home. Through this, we hope to give a sense of familiarity to the Singaporean students, and at the same time introduce non-Singaporeans to our unique culture, traditions, values and most importantly, food! Singaporean or not, all are welcome to join and build a community here!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sing.jpg"
+  },
+  {
+    "name": "Social Digital",
+    "type": "Academic, Social",
+    "link": "Social Digital",
+    "link-href": "https://www.dusa.co.uk/project/social-digital",
+    "description": "At Social Digital Society we have passion for people, places, technology and design. Formed in collaboration with Interior and Environmental Design, Product Design and Digital Interaction Design we welcome all skills, interests and abilities. Throughout the year we host a number of events such as design sprints, pub socials, and the famous Christmas Ceilidh. \nCollaboration within any industry is key and our society’s will help you make the first connections that could last a life-time. We welcome all levels and disciplines across the whole of the university, it’s important to note you do not have to be good at sketching or any technical skill for that matter! (not many of us are…)",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Soc-Dig.jpg"
+  },
+  {
+    "name": "Social Society",
+    "type": "Social",
+    "link": "Social Society",
+    "link-href": "https://www.dusa.co.uk/project/social-society",
+    "description": "Dundee University Social Society aims to provide a social platform for connecting people. We offer different group activities that promote mindfulness, as well as good physical and mental health. Our hope is that we will be able to target students who do not normally join a society due to barriers such as a fear of joining a society, disability, mental health condition or financial worries.\nIf you fit any of the criteria above, you can be referred to our society by services such as Switch. Joining our society is only £1 – and lets you access all our activities throughout the year!\nOur sporting activities are played in a casual, friendly environment, and are non-competitive. It is well known that team-based sports are a fantastic way to create friendships and connections. Our non-sporting activities include crafts such as crocheting and knitting, coffees or drinks out, as well as days out. If you want to try a new sport (just for fun!) or try out a new skill – come join us!\n\nEmail this society\nFollow this society on Facebook\nFollow this society on Instagram",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/social-society.jpeg"
+  },
+  {
+    "name": "Socialist Society",
+    "type": "Political",
+    "link": "Socialist Society",
+    "link-href": "https://www.dusa.co.uk/project/socialist-society",
+    "description": "Join the Socialist Society to learn about socialism and trade unionism and to get involved with local activism!\n \n\nEmail this society\nFollow this society on Facebook\nFollow this society on Instagram\nFollow this society on Twitter",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/socialist-society.jpeg"
+  },
+  {
+    "name": "Spectrum",
+    "type": "Social",
+    "link": "Spectrum",
+    "link-href": "https://www.dusa.co.uk/project/spectrum",
+    "description": "Is night clubbing not your thing? Find it hard to socialise? The Spectrum Society aims to build a network for people who find it hard to make friends or find social situations difficult. Our goal is to connect students on the autism spectrum and those with social anxiety, but anyone is welcome whether you’re neurodivergent or otherwise! Who says that making friends or socialising is easy? It can be even harder for those on the spectrum and with anxiety. So, whether you are a final year student, or a first-year fresher, come along and join us! We host fortnightly activities where you can socialise in a calm and friendly environment.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Spectrum.jpg"
+  },
+  {
+    "name": "Sports Medicine and Orthopaedic",
+    "type": "Academic",
+    "link": "Sports Medicine and Orthopaedic",
+    "link-href": "https://www.dusa.co.uk/project/sports-medicine-and-orthopaedic",
+    "description": "The University of Dundee Sports Medicine and Orthopaedics Society (SMO) increases awareness and the career opportunities available in both Sports and Exercise Medicine, and also Orthopaedics. Throughout the year, we have leading sports medics and orthopaedic surgeons delivering interesting talks and workshops with great networking opportunities. We also organise and run revision sessions related to both Sports and Exercise Medicine and Orthopaedics. Check out our free website that provides a wide range of educational resources!\nFull membership of this society is open to any matriculated student of the University of Dundee interested in the field of sport science.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sportsmed.jpg"
+  },
+  {
+    "name": "Students for Global Health",
+    "type": "Charitable",
+    "link": "Students for Global Health",
+    "link-href": "https://www.dusa.co.uk/project/students-for-global-health",
+    "description": "Students for Global Health is a national student network and registered charity tackling global and local health inequalities through education, advocacy, and community action. They have local branches at universities across the UK fulfilling this mission on both the local and national level. By becoming a member of the Dundee branch, you will have access to national and international opportunities, as well as local events such as film screenings, panels and socials! We encourage anyone from any degree who has an interest in talking global inequalities to join.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SfGH.jpg"
+  },
+  {
+    "name": "Sunday League Football",
+    "type": "Hobbies/Interests",
+    "link": "Sunday League Football",
+    "link-href": "https://www.dusa.co.uk/project/sunday-league-football",
+    "description": "Dundee University Sunday League Football Club enables all students to play football at varying degrees of competitiveness. If you’re new to the sport, want some exercise to fit around your studies or you want to compete at a high level against local teams, DUSL has a team to suit you.\nFootball is the world’s largest sport and we want more and more people to have a chance to discover the beautiful game. We will never turn a player away, regardless of previous experience. We also encourage more women to discover the sport with the creation of our women’s team this season.\nThe teams train once a week with training sessions tailored to varying skill groups. There is a mix of team training and individual fitness as well as training matches and friendlies with the University BUCS team. Games for registered teams are played on Sunday.\nDUSL would love to have you on one of our teams, if you’re interested please contact our email or message our facebook page to get more information.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sunday-football.jpg"
+  },
+  {
+    "name": "Sustainability and Urban Planning",
+    "type": "Academic",
+    "link": "Sustainability and Urban Planning",
+    "link-href": "https://www.dusa.co.uk/project/sustainability-and-urban-planning",
+    "description": "We are the Sustainability and Urban Planning Association at the University of Dundee, SUPA for short! We are a group of students studying either the Urban Planning or Environmental Sustainability degree pathways with an interest in the built and natural environment, however anyone with a passion for planning or sustainability is welcome to join. Throughout the year, we aim to provide a series of professional talks and networking opportunities, with plenty of social events included too. As a relatively new society, we are always looking for event ideas and more committee members to join us. You can find us on Facebook, Instagram, Twitter and LinkedIn; feel free to contact us with any questions about the society or studying at the University of Dundee, we’re happy to help!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Supa.jpg"
+  },
+  {
+    "name": "Sustainable Fashion",
+    "type": "Hobbies/Interests",
+    "link": "Sustainable Fashion",
+    "link-href": "https://www.dusa.co.uk/project/sustainable-fashion",
+    "description": "If you are someone who loves fashion design, or you are passionate about sustainability, the UoD Sustainable Fashion Society will be ideal for you! \nWe are charitable organisation, open to both students and non-students, beginner and advanced, where you will get to up-cycle or re-design second-hand clothes/materials. The second-hand materials could be obtained from your unwanted items at home or bought from a charity shop. Additionally, there will be an opportunity for some members to model the clothing at our very own charity fashion show within the University (if you want, you can do both the modelling and designing).\nWe offer fun social events like nights out, bar games and offer tutorials on various design techniques. Feel free to come along and meet other creative and sophisticated individuals!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SF.jpg"
+  },
+  {
+    "name": "Swing Dance",
+    "type": "Hobbies/Interests",
+    "link": "Swing Dance",
+    "link-href": "https://www.dusa.co.uk/project/swing-dance",
+    "description": "Hi! We’re the Swing Dance Society, we meet twice a week and dance Lindy Hop, Charleston, and Solo Jazz. We have classes for beginners and intermediates, so no previous experience is needed. We finish every class with social dancing and head to the pub after for a catch up. We also organize group trips to other cities for dance workshops and events! Anyone can join, student or not, and you don’t need to bring a partner.\nWe dance to have fun and enjoy the music, plus it’s a great way to meet new people! \nFind out more about us on our Facebook or Instagram pages where we post about our latest events.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Swing.jpg"
+  },
+  {
+    "name": "Traditional Music",
+    "type": "Arts, Hobbies/Interests",
+    "link": "Traditional Music",
+    "link-href": "https://www.dusa.co.uk/project/traditional-music",
+    "description": "TradSoc is a music group that plays Scottish and Irish traditional music. We welcome all student musicians to come and play with us, whether this is a style of music you have tried before or not. We usually hold practice sessions on campus weekly during term time. On top of our weekly sessions, we regularly play at university events on campus and for ceilidhs around Dundee, as well as enjoying plenty fun concerts and trips linking up with other university trad groups!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_trad.jpg"
+  },
+  {
+    "name": "UniBoob",
+    "type": "Charitable",
+    "link": "UniBoob",
+    "link-href": "https://www.dusa.co.uk/project/uniboob",
+    "description": "Representing Coppafeel! We welcome all guys, gals and non-binary pals to join us in making students breast cancer aware by spreading boob love on campus! We host exciting socials and fundraisers with our main aim being to spread the word and raise money for our charity. If you love glitter and being involved in something extremely rewarding, then get in touch!\n​",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-ART-1.jpg"
+  },
+  {
+    "name": "Volunteering",
+    "type": "Charitable",
+    "link": "Volunteering",
+    "link-href": "https://www.dusa.co.uk/project/volunteering",
+    "description": "The Dundee university volunteering society (DUVS) is a charitable society which aims to raise money for various charities and causes throughout the academic year. Unlike other charitable societies, we fundraiser for multiple charities throughout the year rather than committing to one sole charity so that we can expand our reach to as many people as possible.\nThe charities we fundraise for, and the events we hold, are voted on by members on a regular monthly or bimonthly basis to ensure all members get the chance to have their say in who we support and how we raise money. Throughout the year, members and students will be able to take part in a wide range of events and fundraisers so there is something for everyone to do, whilst raising money for worthy causes and making new friends and connections in the process.",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/06/Volunteering-Society.jpg"
+  },
+  {
+    "name": "We Are Donors Society",
+    "type": "Charitable",
+    "link": "We Are Donors Society",
+    "link-href": "https://www.dusa.co.uk/project/we-are-donors-society",
+    "description": "We Are Donors is a UK registered charity aiming to increase the number of organ and blood donors across the UK through student led education at schools and universities.\nWe are a network of university groups across the UK dedicated to raising awareness about the importance of organ and blood donation. We do this by recruiting and training university students to give talks and run workshops at schools in their local region, and also through awareness events and blood drives at their university. So far we have spoken to over 1000 students and the future looks bright!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_WAD.jpg"
+  },
+  {
+    "name": "Women in STEM",
+    "type": "Academic",
+    "link": "Women in STEM",
+    "link-href": "https://www.dusa.co.uk/project/women-in-stem",
+    "description": "Hello! We are women in STEM. Aiming to empower women studying STEM at Dundee by giving them exciting opportunities to meet life-long friends and develop their professional careers in important ways. We want to create a supportive community that will celebrate and empower our female students!\nOur events are a mix of fun socials and opportunities to grow professionally so that our members can feel welcome and thrive in their chosen field. We plan to support members as much as we can, through as many ways as possible. Please note that the society is open to anyone, even if you’re not a woman in STEM you can still come along if you’re studying other subjects and want insight or if you’re not a woman and want to support the cause. Check us out on facebook and Instagram. Thank you!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_WIS_1.jpg"
+  },
+  {
+    "name": "Yoga",
+    "type": "Hobbies/Interests",
+    "link": "Yoga",
+    "link-href": "https://www.dusa.co.uk/project/yoga",
+    "description": "Welcome to the Yoga Society!\nWhether you are a yoga aficionado looking for challenging classes or a newbie just starting out, we cater to all levels in our various weekly lessons. We also provide mats for those who don’t have one so just come along to one of our sessions to get started. Make sure to follow us on Facebook and Instagram as we also post our upcoming socials and class schedules on there.\nWe look forward to meeting all you yogis!",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_yoga_1.jpg"
   }
 ]

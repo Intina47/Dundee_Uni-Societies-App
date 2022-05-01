@@ -4,9 +4,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' as data_root;
 import 'package:flutter_application_1/datamodel.dart';
-import 'package:flutter_application_1/screens/login.dart';
+import 'package:flutter_application_1/screens/homepage.dart';
 import 'package:flutter_application_1/screens/mysocieties.dart';
-import 'package:flutter_application_1/screens/society_profile.dart';
 
 void main() {
   runApp(const MyApp());
@@ -43,7 +42,7 @@ class _HomePageState extends State<HomePage> {
   ///every time we open the app we see the homepage first///
   int pageIndex = 0;
   final pages = [
-    const Page1(),
+    const Homepage(),
     const Mysocietiespage(),
     const Page3(),
     const searchPage(),
@@ -190,103 +189,6 @@ Future<List<Societiesdatamodel>> readJsonData() async {
       .loadString('societies_data/Dundee_Uni_Societies.json');
   final list = json.decode(societyData) as List<dynamic>;
   return list.map((e) => Societiesdatamodel.fromJson(e)).toList();
-}
-
-class Page1 extends StatelessWidget {
-  const Page1({Key? key}) : super(key: key);
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        backgroundColor: Colors.black,
-        body: FutureBuilder(
-          future: readJsonData(),
-          builder: (context, data) {
-            if (data.hasError) {
-              return Center(
-                child: Text("${data.error}"),
-              );
-            } else if (data.hasData) {
-              var items = data.data as List<Societiesdatamodel>;
-              return ListView.builder(
-                  itemCount: (items.length),
-                  itemBuilder: (context, index) {
-                    return Card(
-                      clipBehavior: Clip.antiAlias,
-                      elevation: 16,
-                      shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10)),
-                      child: InkWell(
-                        onTap: () {
-                          Navigator.push(context,
-                              MaterialPageRoute(builder: (context) {
-                            return const SocietyProfilePage();
-                          }));
-                        },
-                        child: Column(
-                          mainAxisSize: MainAxisSize.min,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Stack(
-                              alignment: Alignment.bottomLeft,
-                              children: [
-                                SizedBox(
-                                  height: 100,
-                                  child: Ink.image(
-                                    image: NetworkImage(
-                                        items[index].imageurl.toString()),
-                                    fit: BoxFit.fitWidth,
-                                  ),
-                                )
-                              ],
-                            ),
-                            Padding(
-                              padding: const EdgeInsets.only(
-                                  left: 10, top: 5, right: 0),
-                              child: Column(
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                children: <Widget>[
-                                  Text(
-                                    items[index].name.toString(),
-                                    style: const TextStyle(
-                                      color: Colors.black,
-                                      backgroundColor: Colors.transparent,
-                                    ),
-                                  ),
-                                ],
-                              ),
-                            ),
-                            ButtonBar(
-                              children: [
-                                ElevatedButton(
-                                  onPressed: () {
-                                    Navigator.push(
-                                      context,
-                                      MaterialPageRoute(
-                                        builder: (context) {
-                                          return const LoginPage();
-                                        },
-                                      ),
-                                    );
-                                  },
-                                  child: const Text('JOIN'),
-                                ),
-                              ],
-                            ),
-                          ],
-                        ),
-                      ),
-                    );
-                  });
-            } else {
-              return const Center(
-                child: CircularProgressIndicator(),
-              );
-            }
-          },
-        ));
-  }
-
-  void refreshHomepage() {}
 }
 
 class Page3 extends StatelessWidget {
