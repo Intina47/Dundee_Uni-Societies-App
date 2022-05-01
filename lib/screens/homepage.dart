@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/datamodel.dart';
 import 'package:flutter_application_1/main.dart';
+import 'package:flutter_application_1/screens/detailpage.dart';
 import 'package:flutter_application_1/screens/login.dart';
-import 'package:flutter_application_1/screens/society_profile.dart';
 
 class Homepage extends StatelessWidget {
   const Homepage({Key? key}) : super(key: key);
@@ -30,10 +30,11 @@ class Homepage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(10)),
                       child: InkWell(
                         onTap: () {
-                          Navigator.push(context,
-                              MaterialPageRoute(builder: (context) {
-                            return const SocietyProfilePage();
-                          }));
+                          Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (context) => DetailsScreen(
+                                      detaildatamodel: items[index])));
                         },
                         child: Column(
                           mainAxisSize: MainAxisSize.min,

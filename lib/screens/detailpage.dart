@@ -1,20 +1,20 @@
 import 'package:carousel_pro_nullsafety/carousel_pro_nullsafety.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/datamodel.dart';
 
-class SocietyProfilePage extends StatefulWidget {
-  const SocietyProfilePage({Key? key}) : super(key: key);
+class DetailsScreen extends StatelessWidget {
+  final Societiesdatamodel detaildatamodel;
+  const DetailsScreen({Key? key, required this.detaildatamodel})
+      : super(key: key);
 
-  @override
-  SocietyProfile createState() => SocietyProfile();
-}
-
-class SocietyProfile extends State<SocietyProfilePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.grey,
       appBar: buildSocietyAppBAr(context),
-      body: const ProfileBody(),
+      body: Detailspagebody(
+        detaildatamodel: detaildatamodel,
+      ),
     );
   }
 
@@ -31,8 +31,10 @@ class SocietyProfile extends State<SocietyProfilePage> {
   }
 }
 
-class ProfileBody extends StatelessWidget {
-  const ProfileBody({Key? key}) : super(key: key);
+class Detailspagebody extends StatelessWidget {
+  final Societiesdatamodel detaildatamodel;
+  const Detailspagebody({Key? key, required this.detaildatamodel})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
