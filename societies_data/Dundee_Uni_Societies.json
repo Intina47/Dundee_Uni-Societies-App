@@ -1,0 +1,638 @@
+[
+  {
+    "web-scraper-order": "1650125186-123",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Computing",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Website-Socs-A-Z-Pic-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-115",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Boardgames Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Board-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-154",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Latin American",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LatinAmer-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-156",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Law",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Law-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-166",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Mental Health",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Mind-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-189",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Saudi",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Scot-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-111",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Anatomy and Human Identification",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_AHID-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-126",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Debating",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_DRAMS-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-138",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Fiction Writing",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Fiction-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-153",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Labour Students",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LatinAmer-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-107",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Anime Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/anime-society-400x224.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-171",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Nordic",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Nordic-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-137",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Feminist",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Fem-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-180",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Politics",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_political-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-149",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "International Law society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_IntLaw-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-181",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Postgrad",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_post-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-170",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Nigerian",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-2-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-176",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "PENSA Dundee",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-PENSA-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-136",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Esports",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ESW-2-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-200",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Spectrum",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Spectrum-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-174",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Operatic (OpSoc)",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-143",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Guide Dogs",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Guide_dogs_3-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-169",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Music",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Music-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-185",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Roleplaying",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Roleplaying-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-173",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Obstetrics and Gynaecology",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_OPsOC-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-199",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Singaporean",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sing-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-113",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Baking and Cooking",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Veg-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-117",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Bulgarian",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Bulgarian_1-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-119",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Catholic",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Catholic-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-133",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Education and Social Work",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ESW-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-146",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Hong Kong",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_HongKong-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-197",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Social Digital",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Soc-Dig-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-198",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Socialist Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/socialist-society-400x284.jpeg"
+  },
+  {
+    "web-scraper-order": "1650125186-109",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Aeronautical",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/aeronautical-society-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-204",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Sustainability and Urban Planning",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Supa-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-162",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Marrow",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Marrow-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-191",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Scottish Nationalist",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ScotNat-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-167",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Model United Nations",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Mun-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-195",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Sign Language",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SignLanguage-2-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-203",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Sunday League Football",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sunday-football-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-175",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Participation",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_part-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-157",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "LGBT+",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Lgbt-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-210",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "We Are Donors Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_WAD-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-135",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Engineering",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2017/07/Soc_AZ_-Engineering-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-150",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Islamic",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Islam-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-142",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Ghanaian",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_history-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-161",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Malaysian",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Dumas-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-205",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Sustainable Fashion",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SF-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-207",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Traditional Music",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_trad-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-108",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Aerial",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2019/02/Soc_AZ_ActionPalestine-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-211",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Women in STEM",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_WIS_1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-179",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Polish",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Polish-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-194",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Show Choir",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Music-Soc-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-193",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Sexpression",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sex-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-201",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Sports Medicine and Orthopaedic",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Sportsmed-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-114",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Bands",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Bands-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-187",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Salsa",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Salsa-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-144",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "HandCraft",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/handcraft-society-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-155",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Latin Dance",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Latin-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-196",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Social Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/social-society-400x284.jpeg"
+  },
+  {
+    "web-scraper-order": "1650125186-132",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "DunTea",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_DunTea-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-182",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Preventing Period Poverty",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ppp-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-183",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Psychology",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_psychology_2-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-129",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Dermatology",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/69502260_106365747406462_5747513974102949888_n-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-202",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Students for Global Health",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_SfGH-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-209",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Volunteering",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/06/Volunteering-Society-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-128",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Dental Wikipedia Editing",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Dental-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-184",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Redeemed Christian Fellowship",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_redeam-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-145",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "History",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/history-society-400x284.jpeg"
+  },
+  {
+    "web-scraper-order": "1650125186-206",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Swing Dance",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Swing-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-134",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Enactus",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/07/enactus-dundee-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-178",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Plant",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/plant-society-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-124",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Concert Band",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_concert-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-164",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "MedAID",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_-MEDAid-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-152",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Kink Society, DUKS",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/kink-society-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-188",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Save the Children",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_-Save-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-140",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Friends of MSF",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-MSF-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-163",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Maths",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Maths-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-141",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Geography & Environmental Sciences",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_German-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-160",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Low Impact Living",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_Low-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-208",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "UniBoob",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-ART-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-120",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Christian Union",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Christian-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-190",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Scottish Dance",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Scot-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-186",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Route2 society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2022/01/EC27C677-D800-4408-A048-A94A73336817-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-110",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "African & Caribbean",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_AFC-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-147",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Humanities",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_hum-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-118",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Business",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-Canada-1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-168",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Mooting",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Moot-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-158",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Life Sciences",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_LifeSci-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-122",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Clinical Anatomy",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_-DUCAS-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-192",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Self Defence",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Self-def-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-159",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "LIP Theatre",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_LIP_4-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-212",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Yoga",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_yoga_1-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-148",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Indian",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Indian_2-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-130",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Dirty Weekenders",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2020/10/Soc_AZ_Dirty-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-127",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Dental DRAMS",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2019/11/Soc_AZ_DRAMS-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-131",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Drive",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Drive_2-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-121",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Civil Engineering Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_civil-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-125",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Companionship",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Comp-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-116",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Book Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/book-society-400x284-1.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-151",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Just Love",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_Just-400x284.png"
+  },
+  {
+    "web-scraper-order": "1650125186-177",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Physics",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/10/Soc_AZ_Physics-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-165",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Medieval Re-enactment society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/596BD882-1AD5-4BFB-8B63-441F3C0991B5-400x284.jpeg"
+  },
+  {
+    "web-scraper-order": "1650125186-112",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Association of Dundee Architecture Students",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2016/04/Soc_AZ_ADAS-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-172",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Nursing Society",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2021/12/nursing-society-400x284.jpg"
+  },
+  {
+    "web-scraper-order": "1650125186-139",
+    "web-scraper-start-url": "https://www.dusa.co.uk/societies/a-z",
+    "name": "Free Speech society (DUFSS)",
+    "imageurl": "https://www.dusa.co.uk/wp-content/uploads/2022/01/3DD4C468-A1EE-43F6-8D37-261DF07A0CA3-400x284.jpeg"
+  }
+]
