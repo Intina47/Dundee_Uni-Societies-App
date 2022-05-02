@@ -67,11 +67,12 @@ class Detailspagebody extends StatelessWidget {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
               mainAxisSize: MainAxisSize.min,
-              children: const [
-                Text(
-                  'CLUB NAME',
-                  style: TextStyle(color: Colors.white),
-                ),
+              children: const <Widget>[
+                Center(
+                  child: Text(
+                    detaildatamodel.name,
+                  ),
+                )
               ],
             ),
           ),
