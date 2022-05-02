@@ -70,7 +70,7 @@ class Detailspagebody extends StatelessWidget {
               children: const <Widget>[
                 Center(
                   child: Text(
-                    detaildatamodel.name,
+                    '',
                   ),
                 )
               ],
