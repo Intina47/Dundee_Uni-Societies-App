@@ -1,9 +1,7 @@
 // ignore_for_file: camel_case_types, duplicate_ignore
 
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' as data_root;
-import 'package:flutter_application_1/datamodel.dart';
+
 import 'package:flutter_application_1/screens/homepage.dart';
 import 'package:flutter_application_1/screens/mysocieties.dart';
 
@@ -31,12 +29,26 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  //reading the json file clubs data into our user interface homepage
-  Future<List<Societiesdatamodel>> readJsonData() async {
-    final societyData = await data_root.rootBundle
-        .loadString('societies_data/Dundee_Uni_Societies.json');
-    final list = json.decode(societyData) as List<dynamic>;
-    return list.map((e) => Societiesdatamodel.fromJson(e)).toList();
+  var _searchview = new TextEditingController();
+  bool _activatesearch = true;
+  String _query = "";
+
+  //search initialization
+  //notify the system when a search is activated
+  _HomePageState() {
+    _searchview.addListener(() {
+      if (_searchview.text.isEmpty) {
+        setState(() {
+          _activatesearch = true;
+          _query = "";
+        });
+      } else {
+        setState(() {
+          _activatesearch = false;
+          _query = _searchview.text;
+        });
+      }
+    });
   }
 
   ///every time we open the app we see the homepage first///
@@ -45,7 +57,7 @@ class _HomePageState extends State<HomePage> {
     const Homepage(),
     const Mysocietiespage(),
     const Page3(),
-    const searchPage(),
+    // const searchPage(),
   ];
   @override
   Widget build(BuildContext context) {
@@ -103,7 +115,7 @@ class _HomePageState extends State<HomePage> {
       actions: [
         IconButton(
             onPressed: () => Navigator.of(context)
-                .push(MaterialPageRoute(builder: (_) => const searchPage())),
+                .push(MaterialPageRoute(builder: (_) => searchPage(context))),
             icon: const Icon(Icons.search))
       ],
     );
@@ -182,13 +194,42 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
-}
 
-Future<List<Societiesdatamodel>> readJsonData() async {
-  final societyData = await data_root.rootBundle
-      .loadString('societies_data/Dundee_Uni_Societies.json');
-  final list = json.decode(societyData) as List<dynamic>;
-  return list.map((e) => Societiesdatamodel.fromJson(e)).toList();
+  //our search Bar implementation
+
+  Widget searchPage(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: const Color.fromARGB(255, 2, 15, 35),
+        title: Container(
+          width: double.infinity,
+          height: 40,
+          decoration: BoxDecoration(
+            color: Colors.white,
+            borderRadius: BorderRadius.circular(5),
+          ),
+          child: const Center(
+            child: TextField(
+              //controller: _searchview,
+              cursorColor: Color.fromARGB(255, 2, 15, 35),
+              decoration: InputDecoration(
+                prefixIcon: Icon(
+                  Icons.search,
+                  color: Colors.black,
+                ),
+                prefixIconColor: Colors.orange,
+                hintText: 'Search....',
+                border: InputBorder.none,
+              ),
+              style: TextStyle(
+                color: Colors.black,
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
 }
 
 class Page3 extends StatelessWidget {
@@ -205,45 +246,6 @@ class Page3 extends StatelessWidget {
             color: Colors.black,
             fontSize: 45,
             fontWeight: FontWeight.bold,
-          ),
-        ),
-      ),
-    );
-  }
-}
-
-//our search Bar implementation
-class searchPage extends StatelessWidget {
-  const searchPage({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 2, 15, 35),
-        title: Container(
-          width: double.infinity,
-          height: 40,
-          decoration: BoxDecoration(
-            color: Colors.white,
-            borderRadius: BorderRadius.circular(5),
-          ),
-          child: const Center(
-            child: TextField(
-              cursorColor: Color.fromARGB(255, 2, 15, 35),
-              decoration: InputDecoration(
-                prefixIcon: Icon(
-                  Icons.search,
-                  color: Colors.black,
-                ),
-                prefixIconColor: Colors.orange,
-                hintText: 'Search....',
-                border: InputBorder.none,
-              ),
-              style: TextStyle(
-                color: Colors.black,
-              ),
-            ),
           ),
         ),
       ),

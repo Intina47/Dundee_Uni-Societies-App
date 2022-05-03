@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/datamodel.dart';
-import 'package:flutter_application_1/main.dart';
 import 'package:flutter_application_1/screens/detailpage.dart';
 import 'package:flutter_application_1/screens/login.dart';
+import 'package:flutter_application_1/components/dataread.dart';
 
 class Homepage extends StatelessWidget {
   const Homepage({Key? key}) : super(key: key);
