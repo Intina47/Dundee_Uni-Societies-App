@@ -43,17 +43,19 @@ class Detailspagebody extends StatelessWidget {
         children: <Widget>[
           ///Societies cover photo
           Container(
-            margin: const EdgeInsets.only(top: 0),
-            height: 160,
-            width: MediaQuery.of(context).size.width,
-            decoration: const BoxDecoration(
-              color: Colors.black,
-            ),
-            child: Image.asset(
-              'assets/images/cat.jpg',
-              fit: BoxFit.cover,
-            ),
-          ),
+              margin: const EdgeInsets.only(top: 0),
+              height: 160,
+              width: MediaQuery.of(context).size.width,
+              decoration: const BoxDecoration(
+                color: Colors.black,
+              ),
+              child: Hero(
+                tag: 'name',
+                child: Image.asset(
+                  'assets/images/cat.jpg',
+                  fit: BoxFit.cover,
+                ),
+              )),
           const SizedBox(
             height: 30,
           ),

@@ -230,8 +230,12 @@ class searchPage extends StatelessWidget {
           ),
           child: const Center(
             child: TextField(
+              cursorColor: Color.fromARGB(255, 2, 15, 35),
               decoration: InputDecoration(
-                prefixIcon: Icon(Icons.search),
+                prefixIcon: Icon(
+                  Icons.search,
+                  color: Colors.black,
+                ),
                 prefixIconColor: Colors.orange,
                 hintText: 'Search....',
                 border: InputBorder.none,
