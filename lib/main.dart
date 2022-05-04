@@ -1,7 +1,7 @@
-// ignore_for_file: camel_case_types, duplicate_ignore
-
+import 'dart:convert';
+import 'package:flutter/services.dart' as data_root;
 import 'package:flutter/material.dart';
-
+import 'package:flutter_application_1/datamodel.dart';
 import 'package:flutter_application_1/screens/homepage.dart';
 import 'package:flutter_application_1/screens/mysocieties.dart';
 
@@ -29,26 +29,37 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  var _searchview = new TextEditingController();
-  bool _activatesearch = true;
-  String _query = "";
+  TextEditingController searchview = TextEditingController();
+  List<Societiesdatamodel> searchresults = [];
+  List<Societiesdatamodel> societydetails = [];
 
-  //search initialization
-  //notify the system when a search is activated
-  _HomePageState() {
-    _searchview.addListener(() {
-      if (_searchview.text.isEmpty) {
-        setState(() {
-          _activatesearch = true;
-          _query = "";
-        });
-      } else {
-        setState(() {
-          _activatesearch = false;
-          _query = _searchview.text;
-        });
+  Future<List<Societiesdatamodel>> readJsonData() async {
+    final societyData = await data_root.rootBundle
+        .loadString('societies_data/Dundee_Uni_Societies.json');
+    final list = json.decode(societyData) as List<dynamic>;
+    return list.map((e) => Societiesdatamodel.fromJson(e)).toList();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    readJsonData();
+  }
+
+  onsearch(String search) async {
+    searchresults.clear();
+    if (search.isEmpty) {
+      setState(() {});
+      return;
+    }
+
+    for (var societydetail in societydetails) {
+      if (societydetail.name!.contains(search) ||
+          societydetail.name!.contains(search)) {
+        searchresults.add(societydetail);
       }
-    });
+    }
+    setState(() {});
   }
 
   ///every time we open the app we see the homepage first///
@@ -59,6 +70,7 @@ class _HomePageState extends State<HomePage> {
     const Page3(),
     // const searchPage(),
   ];
+  //side drawer creation
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -196,7 +208,6 @@ class _HomePageState extends State<HomePage> {
   }
 
   //our search Bar implementation
-
   Widget searchPage(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
@@ -208,25 +219,73 @@ class _HomePageState extends State<HomePage> {
             color: Colors.white,
             borderRadius: BorderRadius.circular(5),
           ),
-          child: const Center(
+          child: Center(
             child: TextField(
-              //controller: _searchview,
-              cursorColor: Color.fromARGB(255, 2, 15, 35),
+              controller: searchview,
+              onChanged: onsearch,
+              cursorColor: const Color.fromARGB(255, 2, 15, 35),
               decoration: InputDecoration(
-                prefixIcon: Icon(
+                prefixIcon: const Icon(
                   Icons.search,
                   color: Colors.black,
                 ),
-                prefixIconColor: Colors.orange,
+                suffixIcon: IconButton(
+                    onPressed: () {
+                      searchview.clear();
+                      onsearch('');
+                    },
+                    icon: const Icon(
+                      Icons.cancel,
+                      color: Colors.orange,
+                    )),
                 hintText: 'Search....',
                 border: InputBorder.none,
               ),
-              style: TextStyle(
+              style: const TextStyle(
                 color: Colors.black,
               ),
             ),
           ),
         ),
+      ),
+      body: FutureBuilder(
+        future: readJsonData(),
+        builder: (context, data) {
+          var items = data.data as List<Societiesdatamodel>;
+          return ListView.builder(
+              itemCount: items.length,
+              itemBuilder: (context, index) {
+                return Row(
+                  children: [
+                    Row(
+                      children: [
+                        SizedBox(
+                          height: 60,
+                          width: 60,
+                          child: ClipRRect(
+                            borderRadius: BorderRadius.circular(50),
+                            child: Ink.image(
+                                image: NetworkImage(
+                              items[index].imageurl.toString(),
+                            )),
+                          ),
+                        ),
+                        const SizedBox(
+                          width: 10,
+                        ),
+                        Column(
+                          children: [
+                            Text(
+                              items[index].name.toString(),
+                            )
+                          ],
+                        )
+                      ],
+                    )
+                  ],
+                );
+              });
+        },
       ),
     );
   }

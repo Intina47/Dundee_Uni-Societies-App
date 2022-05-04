@@ -14,4 +14,12 @@ class Societiesdatamodel {
     imageurl = json['imageurl'];
     description = json['description'];
   }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = <String, dynamic>{};
+    data['name'] = name;
+    data['imageurl'] = imageurl;
+    data['description'] = description;
+    return data;
+  }
 }

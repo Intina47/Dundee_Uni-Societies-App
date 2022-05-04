@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:carousel_pro_nullsafety/carousel_pro_nullsafety.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/datamodel.dart';
@@ -85,12 +87,17 @@ class Detailspagebody extends StatelessWidget {
             children: [
               ///Society Events
               Expanded(
-                child: Container(
-                  margin: const EdgeInsets.only(right: 10, left: 10),
-                  height: 160,
-                  decoration: BoxDecoration(
-                      color: Colors.green,
-                      borderRadius: BorderRadius.circular(24)),
+                child: ClipRRect(
+                  child: BackdropFilter(
+                    filter: ImageFilter.blur(sigmaX: 15, sigmaY: 15),
+                    child: Container(
+                      margin: const EdgeInsets.only(right: 10, left: 10),
+                      height: 160,
+                      decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.3),
+                          borderRadius: BorderRadius.circular(24)),
+                    ),
+                  ),
                 ),
               ),
 
