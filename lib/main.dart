@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/datamodel.dart';
 import 'package:flutter_application_1/screens/homepage.dart';
 import 'package:flutter_application_1/screens/mysocieties.dart';
+import 'package:flutter_application_1/screens/settings.dart';
 
 void main() {
   runApp(const MyApp());
@@ -79,8 +80,8 @@ class _HomePageState extends State<HomePage> {
       drawer: Drawer(
         child: ListView(
           padding: EdgeInsets.zero,
-          children: const <Widget>[
-            DrawerHeader(
+          children: <Widget>[
+            const DrawerHeader(
               decoration: BoxDecoration(
                 color: Color.fromARGB(255, 1, 10, 26),
               ),
@@ -92,26 +93,32 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
             ),
-            ListTile(
+            const ListTile(
               leading: Icon(Icons.account_circle_outlined),
               iconColor: Colors.pink,
               title: Text('Profile'),
             ),
-            ListTile(
+            const ListTile(
               leading: Icon(Icons.event_seat_outlined),
               iconColor: Colors.pink,
               title: Text('My Tickets'),
             ),
-            ListTile(
+            const ListTile(
               leading: Icon(Icons.bookmark_add),
               iconColor: Colors.pink,
               title: Text('Pinned Events'),
             ),
             ListTile(
-              leading: Icon(Icons.settings),
-              iconColor: Colors.pink,
-              title: Text('Settings'),
-            )
+                leading: const Icon(Icons.settings),
+                iconColor: Colors.pink,
+                title: const Text('Settings'),
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => const Settingspage()),
+                  );
+                })
           ],
         ),
       ),
