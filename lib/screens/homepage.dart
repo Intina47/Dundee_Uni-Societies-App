@@ -1,8 +1,17 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/datamodel.dart';
 import 'package:flutter_application_1/screens/detailpage.dart';
 import 'package:flutter_application_1/screens/login.dart';
-import 'package:flutter_application_1/components/dataread.dart';
+import 'package:flutter/services.dart' as data_root;
+
+Future<List<Societiesdatamodel>> readJsonData() async {
+  final societyData = await data_root.rootBundle
+      .loadString('societies_data/Dundee_Uni_Societies.json');
+  final list = json.decode(societyData) as List<dynamic>;
+  return list.map((e) => Societiesdatamodel.fromJson(e)).toList();
+}
 
 class Homepage extends StatelessWidget {
   const Homepage({Key? key}) : super(key: key);

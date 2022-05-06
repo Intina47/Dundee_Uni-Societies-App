@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' as data_root;
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/components/search.dart';
 import 'package:flutter_application_1/datamodel.dart';
 import 'package:flutter_application_1/screens/homepage.dart';
 import 'package:flutter_application_1/screens/mysocieties.dart';
@@ -133,8 +134,7 @@ class _HomePageState extends State<HomePage> {
       elevation: 9,
       actions: [
         IconButton(
-            onPressed: () => Navigator.of(context)
-                .push(MaterialPageRoute(builder: (_) => searchPage(context))),
+            onPressed: () => showSearch(context: context, delegate: Search()),
             icon: const Icon(Icons.search))
       ],
     );
@@ -213,7 +213,29 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
+}
 
+class Page3 extends StatelessWidget {
+  const Page3({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: const Color(0x00000000),
+      child: const Center(
+        child: Text(
+          "Events",
+          style: TextStyle(
+            color: Colors.black,
+            fontSize: 45,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+      ),
+    );
+  }
+}
+/*
   //our search Bar implementation
   Widget searchPage(BuildContext context) {
     return Scaffold(
@@ -297,24 +319,7 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+*/
 
-class Page3 extends StatelessWidget {
-  const Page3({Key? key}) : super(key: key);
 
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      color: const Color(0x00000000),
-      child: const Center(
-        child: Text(
-          "Events",
-          style: TextStyle(
-            color: Colors.black,
-            fontSize: 45,
-            fontWeight: FontWeight.bold,
-          ),
-        ),
-      ),
-    );
-  }
-}
+

@@ -22,4 +22,6 @@ class Societiesdatamodel {
     data['description'] = description;
     return data;
   }
+
+  //substring(int i, int length) {}
 }

@@ -16,7 +16,9 @@ class Settingspagestate extends State<Settingspage> {
         title: const Text('Settings', style: TextStyle(fontSize: 22)),
         backgroundColor: Colors.black,
         leading: IconButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.of(context).pop(null);
+            },
             icon: const Icon(
               Icons.arrow_back,
               color: Colors.white,
